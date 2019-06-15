@@ -2,11 +2,11 @@
 layout: default
 ---
 
-## About Me
+## Zhengcong Fei(费政聪)
 
 <img class="profile-picture" src="picture.jpg">
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
+中科院计算技术研究所
 
 This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
 
