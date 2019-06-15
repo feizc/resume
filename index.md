@@ -7,31 +7,30 @@ layout: default
 <img class="profile-picture" src="picture.jpg">
 
 Institute of Computing Technology, Chinese Academy of Sciences
+master
 
-[GitHub](https://github.com/feizc)
+know more about me: [zhihu](https://www.zhihu.com/people/mai-zi-31-63/activities)
 
-[zhihu](https://www.zhihu.com/people/mai-zi-31-63/activities)
+## Education
+
+2019-2022, M.D. Candidate, Computer Application Technology, ict.
+2015-2019, Bachelor of Electronic information engineering, njust; GPA: 3.75/4.
 
 ## Research Interest
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+mechine learning, information retrieval
 
-## Publications
-
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
-
-## Typography
-
-This is a [link](http://google.com). Something *italics* and something **bold**.
-
-Here is a table
+## Awards
 
 Year | Award | Category
 -----|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
+2018 | Meritorious Winner  | MCM/ICM
+2018 | First Prize | China Undergraduate Mathematical Contest in Modeling
+2018 | First Prize | MathorCup Mathematical Contest
+2018 | First Prize | Certification Cup Mathematical Contest
+2018 | Second Prize  | National Military Mathematical Modeling League
+2016 | First Prize | Mathematics competition of Chinese College Students
+2015 | First Prize | CMC
 
 Here is a horizontal rule
 
@@ -41,11 +40,14 @@ Here is a blockquote
 
 > To a great mind, nothing is little
 
-## References
+## Skills
 
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
+* Familiar with C, C++
+* Know Python, MATLAB, LaTeX
+* CET-6: 551; CET-4: 571
 
 ---
+
+Last updated on June 15, 2019
 
 
