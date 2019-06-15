@@ -43,3 +43,20 @@ Here is a blockquote
 
 * Foo Bar: Head of Department, Placeholder Names, Lorem
 * John Doe: Associate Professor, Department of Computer Science, Ipsum
+
+---
+
+* Email: [feizhengcong@ict.ac.cn](mailto:feizhengcong@ict.ac.cn)
+
+* Phone: [158-5079-8820]
+
+---
+
+## Mailing Address
+
+> Institute of Computing Technology, Chinese Academy of Sciences
+>
+> No.6 Zhongguancun South Road, Beijing, China, 100190
+>
+
+---
