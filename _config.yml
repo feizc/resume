@@ -15,10 +15,10 @@ sass:
     style: compressed
     sass_dir: _sass
 
-nav:
+#nav:
 # - name: "About"
 #   link: "index"
- - name: "Resume"
-   link: "resume.pdf"
- - name: "Contact"
-   link: "contact"
+# - name: "Resume"
+#   link: "resume.pdf"
+# - name: "Contact"
+#   link: "contact"
