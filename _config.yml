@@ -1,6 +1,6 @@
-#title: Zhengcong Fei(费政聪)
+title: Zhengcong Fei(费政聪)
 #url: "https://www.zhihu.com/people/mai-zi-31-63/activities"
-#baseurl: "/researcher"
+baseurl: "/Zhengcong Fei(费政聪)"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
@@ -11,14 +11,14 @@ footer: no
 footer_url: "https://github.com/ankitsultana"
 footer_text: "Page design by Ankit Sultana"
 
-#sass:
-#    style: compressed
-#    sass_dir: _sass
+sass:
+    style: compressed
+    sass_dir: _sass
 
-#nav:
-# - name: "About"
-#   link: "index"
-# - name: "Resume"
-#   link: "resume.pdf"
-# - name: "Contact"
- #  link: "contact"
+nav:
+ - name: "About"
+   link: "index"
+ - name: "Resume"
+   link: "resume.pdf"
+ - name: "Contact"
+   link: "contact"
