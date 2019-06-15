@@ -6,9 +6,10 @@ layout: default
 
 <img class="profile-picture" src="picture.jpg">
 
-中科院计算技术研究所
+Institute of Computing Technology, Chinese Academy of Sciences
 
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+[GitHub](https://github.com/feizc)
+[zhihu](https://www.zhihu.com/people/mai-zi-31-63/activities)
 
 ## Research Interest
 
