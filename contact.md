@@ -3,24 +3,19 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
+* Email: [feizhengcong@ict.ac.cn](mailto:feizhengcong@ict.ac.cn)
 
-* Phone: [+91-123123](tel:+91-123123)
+* Phone: [158-5079-8820]
 
 ---
 
 ## Mailing Address
 
-> 221B, Baker Street
+> Institute of Computing Technology, Chinese Academy of Sciences
 >
-> London
+> No.6 Zhongguancun South Road, Beijing, China, 100190
 >
-> United Kingdom
+
 
 ---
 
-## Social
-
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
