@@ -40,18 +40,27 @@ Year | Award | Category
 ## Skills
 
 * Familiar with C, C++
+
 * Know Python, MATLAB, LaTeX
+
 * CET-6: 551; CET-4: 571
 
 ## Projects
 
 1. Search engine design and software implementation in proteomics.
+
   (2019.4 - 2019.6, ict)
+  
 2. Signal analysis of nerve cells and Interface design.
+  
   (2018.7 - 2018.9, Peking University)
+  
 3. Intelligent multi camera system.
+
   (2018.4 – 2018.7, Nanjing University) 
+  
 4. Design and implementation of drone fixed delivery. 
+
   (2017.6 - 2018.4, Provincial Scientific Research Training)
 
 ---
