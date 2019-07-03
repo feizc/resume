@@ -16,7 +16,7 @@ know more about me: [zhihu](https://www.zhihu.com/people/mai-zi-31-63/activities
 
 2019-2022, M.D. Candidate, Computer Application Technology, ict.
 
-2015-2019, Bachelor of Electronic information engineering, njust; GPA: 3.75/4.
+2015-2019, Bachelor of Electronic information engineering, njust; GPA: 3.75/4 (rank: 1/165).
 
 ## Research Interest
 
