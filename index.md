@@ -30,8 +30,8 @@ Year | Award | Category
 2018 | Meritorious Winner  | MCM/ICM
 2018 | First Prize | China Undergraduate Mathematical Contest in Modeling
 2018 | First Prize | MathorCup Mathematical Contest
-2018 | First Prize | Certification Cup Mathematical Contest
-2018 | Second Prize  | National Military Mathematical Modeling League
+2017 | First Prize | Certification Cup Mathematical Contest
+2017 | Second Prize  | National Military Mathematical Modeling League
 2016 | First Prize | Mathematics competition of Chinese College Students
 2015 | First Prize | CMC
 
