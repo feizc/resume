@@ -4,7 +4,7 @@ layout: default
 
 ## Zhengcong Fei(费政聪)
 
-<img class="profile-picture" src="picture.jpg">
+<img class="profile-picture" src="picture1.png">
 
 Institute of Computing Technology, Chinese Academy of Sciences
 
