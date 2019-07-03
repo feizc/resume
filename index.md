@@ -11,6 +11,7 @@ Institute of Computing Technology, Chinese Academy of Sciences
 master
 
 know more about me: [zhihu](https://www.zhihu.com/people/mai-zi-31-63/activities)
+ [github](https://github.com/feizc)
 
 ## Education
 
