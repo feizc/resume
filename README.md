@@ -1,8 +1,9 @@
 # Researcher
 
 
-A clean, single column, monospace resume template built for jekyll
-[example](https://feizc.github.io/resume/).
+A clean, single column, monospace resume template built for jekyll  
+
+[example](https://feizc.github.io/resume/)
 
 ### Installation
 
