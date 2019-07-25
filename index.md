@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="picture1.png">
 
-Institute of Computing Technology, Chinese Academy of Sciences
+Institute of Computing Technology, Chinese Academy of Sciences  
 
 master
 
@@ -40,29 +40,29 @@ Year | Award | Category
 
 ## Skills
 
-* Familiar with C, C++
+* Familiar with  C++，python
 
-* Know Python, MATLAB, LaTeX
+* Know  MATLAB, LaTeX
 
 * CET-6: 551; CET-4: 571
 
 ## Projects
 
-【1】 Search engine design and software implementation in proteomics.
+【1】 Search engine design and software implementation in proteomics.  
 
-  (2019.4 - 2019.6, ict)
+    (2019.4 - 2019.6, ict)
   
-【2】  Signal analysis of nerve cells and Interface design.
+【2】  Signal analysis of nerve cells and Interface design.  
   
-  (2018.7 - 2018.9, Peking University)
+    (2018.7 - 2018.9, Peking University)
   
-【3】  Intelligent multi camera system.
+【3】  Intelligent multi camera system.  
 
-  (2018.4 – 2018.7, Nanjing University) 
+    (2018.4 – 2018.7, Nanjing University) 
   
-【4】  Design and implementation of drone fixed delivery. 
+【4】  Design and implementation of drone fixed delivery.   
 
-  (2017.6 - 2018.4, Provincial Scientific Research Training)
+    (2017.6 - 2018.4, Provincial Scientific Research Training)
 
 ---
 
