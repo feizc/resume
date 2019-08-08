@@ -2,16 +2,23 @@
 layout: default
 ---
 
-<font size=4> ## Zhengcong Fei(费政聪)
+### Zhengcong Fei(费政聪)
 
 <img class="profile-picture" src="picture1.png">
+  
+  
+candidate master  
 
 Institute of Computing Technology, Chinese Academy of Sciences  
 
-candidate master
+No.6 Zhongguancun South Road, Beijing, China, 100190  
 
-know more about me: [zhihu](https://www.zhihu.com/people/mai-zi-31-63/activities)
- [github](https://github.com/feizc)
+Email: [feizhengcong@ict.ac.cn](mailto:feizhengcong@ict.ac.cn)  
+
+know more about me:  
+[zhihu](https://www.zhihu.com/people/mai-zi-31-63/activities)  
+ [github](https://github.com/feizc)  
+ 
 
 ## Education
 
