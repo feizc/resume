@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Zhengcong Fei(费政聪)
+<font size=4> ## Zhengcong Fei(费政聪)
 
 <img class="profile-picture" src="picture1.png">
 
