@@ -2,7 +2,7 @@
 layout: default
 ---
 
-### Zhengcong Fei(费政聪)
+# Zhengcong Fei(费政聪)
 
 <img class="profile-picture" src="picture1.png">
   
@@ -15,16 +15,16 @@ No.6 Zhongguancun South Road, Beijing, China, 100190
 
 Email: [feizhengcong@ict.ac.cn](mailto:feizhengcong@ict.ac.cn)  
 
-know more about me:  
-[zhihu](https://www.zhihu.com/people/mai-zi-31-63/activities)  
- [github](https://github.com/feizc)  
+know more about me: [zhihu](https://www.zhihu.com/people/mai-zi-31-63/activities) [github](https://github.com/feizc)  
  
 
 ## Education
 
-2019-2022, M.D. Candidate, Computer Application Technology, ict.
+2019.9-Now, M.D. Candidate, Computer Application Technology, ict.  
 
-2015-2019, Bachelor of Electronic information engineering, njust; GPA: 3.75/4 (rank: 1/165).
+2018.4-2018.10, research intern, Peking University.
+
+2015.9-2019.6, Bachelor of Electronic information engineering, njust; GPA: 3.75/4 (rank: 1/165).  
 
 ## Research Interest
 
