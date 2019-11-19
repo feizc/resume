@@ -47,9 +47,9 @@ Year | Award | Category
 
 * Better Understanding Hierarchical Visual Relationship for Image Caption 
 
-&ensp Zhengcong Fei 
+ Zhengcong Fei 
 
-&ensp **NeurIPS** 2019 Workshop poster, Vancouver, Canada, 2019
+ **NeurIPS** 2019 Workshop poster, Vancouver, Canada, 2019
 
 
 
