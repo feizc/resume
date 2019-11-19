@@ -28,7 +28,7 @@ know more about me: [zhihu](https://www.zhihu.com/people/mai-zi-31-63/activities
 
 ## Research Interest
 
-mechine learning, information retrieval
+machine learning, information retrieval
 
 ## Awards
 
