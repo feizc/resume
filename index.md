@@ -43,6 +43,16 @@ Year | Award | Category
 2015 | First Prize | CMC  
 
 
+## Publications
+
+* Better Understanding Hierarchical Visual Relationship for Image Caption 
+
+Zhengcong Fei 
+
+**NeurIPS** 2019 Workshop poster, Vancouver, Canada, 2019
+
+
+
 ## Skills
 
 * Familiar with  C++，python
