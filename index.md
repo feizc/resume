@@ -45,7 +45,7 @@ Year | Award | Category
 
 ## Publications
 
-*1 Better Understanding Hierarchical Visual Relationship for Image Caption 
+* Better Understanding Hierarchical Visual Relationship for Image Caption 
 
 Zhengcong Fei 
 
