@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Zhengcong Fei(费政聪)
 
 <img class="profile-picture" src="picture1.png">
