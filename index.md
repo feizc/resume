@@ -47,7 +47,7 @@ Year | Award | Category
 
 * Better Understanding Hierarchical Visual Relationship for Image Caption 
 
-[paper](https://arxiv.org/abs/1912.01881) [code](https://github.com/feizc) 
+【[paper](https://arxiv.org/abs/1912.01881)】  【[code](https://github.com/feizc)】 
 
  Zhengcong Fei 
 
