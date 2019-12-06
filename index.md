@@ -49,7 +49,7 @@ Year | Award | Category
 
  Zhengcong Fei 
 
- **NeurIPS** 2019 Workshop poster, Vancouver, Canada, 2019 
+ **NeurIPS** 2019 Workshop on New In ML, Vancouver, Canada, 2019 
   
  
 【[paper](https://arxiv.org/abs/1912.01881)】  【[code](https://github.com/feizc)】 
