@@ -47,23 +47,27 @@ Year | Award | Category
 
 * Fast Image Caption Generation with Position Alignment (**Oral**)
 
-Zhengcong Fei 
+  Zhengcong Fei 
 
-**AAAI** 2020 Workshop on Artificial Intelligence of Things, New York, USA, 2020 
+  **AAAI** 2020 Workshop on Artificial Intelligence of Things, New York, USA, 2020 
 
-[paper]  [code]  [PPT]
+  [paper]  [code]  [PPT]
 
 
 * Better Understanding Hierarchical Visual Relationship for Image Caption 
 
- Zhengcong Fei 
+  Zhengcong Fei 
 
- **NeurIPS** 2019 Workshop on New In ML, Vancouver, Canada, 2019 
+  **NeurIPS** 2019 Workshop on New In ML, Vancouver, Canada, 2019 
   
  
-[[paper](https://arxiv.org/abs/1912.01881)]  [[code](https://github.com/feizc)] 
- 
+  [[paper](https://arxiv.org/abs/1912.01881)]  [[code](https://github.com/feizc)]  
 
+* GameTag: A New Sequence Tag Generation Algorithm Based on Cooperative Game Theory 
+
+  Zhengcong Fei, Hao Chi  
+  
+  [paper]  [code] 
 
 
 ## Skills
