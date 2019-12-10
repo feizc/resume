@@ -49,7 +49,7 @@ Year | Award | Category
 
 Zhengcong Fei 
 
-**AAAI** 2020, New York, USA, 2020 
+**AAAI** 2020 Workshop on Artificial Intelligence of Things, New York, USA, 2020 
 
 [paper]  [code]  [PPT]
 
