@@ -45,6 +45,15 @@ Year | Award | Category
 
 ## Publications
 
+* Fast Image Caption Generation with Position Alignment (**Oral**)
+
+Zhengcong Fei 
+
+**AAAI** 2020, New York, USA, 2020 
+
+[paper]  [code]  [PPT]
+
+
 * Better Understanding Hierarchical Visual Relationship for Image Caption 
 
  Zhengcong Fei 
@@ -52,7 +61,7 @@ Year | Award | Category
  **NeurIPS** 2019 Workshop on New In ML, Vancouver, Canada, 2019 
   
  
-【[paper](https://arxiv.org/abs/1912.01881)】  【[code](https://github.com/feizc)】 
+[[paper](https://arxiv.org/abs/1912.01881)]  [[code](https://github.com/feizc)] 
  
 
 
