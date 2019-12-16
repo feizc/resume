@@ -53,6 +53,7 @@ Year | Award | Category
 
   [[paper](https://arxiv.org/abs/1912.06365)]  [code]  [PPT]
 
+&nbsp;
 
 * Better Understanding Hierarchical Visual Relationship for Image Caption 
 
@@ -62,6 +63,9 @@ Year | Award | Category
   
  
   [[paper](https://arxiv.org/abs/1912.01881)]  [[code](https://github.com/feizc)]  
+  
+&nbsp;
+
 
 * GameTag: A New Sequence Tag Generation Algorithm Based on Cooperative Game Theory 
 
