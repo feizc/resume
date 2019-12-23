@@ -70,7 +70,7 @@ Year | Award | Category
 
   Zhengcong Fei, Hao Chi  
   
-  Proteomics in preparation
+  **Proteomics** in preparation
   
   [paper]  [code] 
 
