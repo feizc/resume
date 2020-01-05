@@ -70,7 +70,7 @@ Year | Award | Category
 
   Zhengcong Fei, Hao Chi  
   
-  **《Proteomics》** under review
+  **Proteomics** under review
   
   [paper]  [code] 
 
