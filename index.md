@@ -50,7 +50,8 @@ Year | Award | Category
   Zhengcong Fei 
   
   [paper]  [code] 
-  
+   
+  &nbsp;   
   
 * Fast Image Caption Generation with Position Alignment (**Oral**)
 
