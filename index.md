@@ -43,8 +43,15 @@ Year | Award | Category
 2015 | First Prize | CMC  
 
 
-## Publications
+## Publications 
 
+* Iterative Refinement for Non-Autoregressive Image Captioning 
+
+  Zhengcong Fei 
+  
+  [paper]  [code] 
+  
+  
 * Fast Image Caption Generation with Position Alignment (**Oral**)
 
   Zhengcong Fei 
@@ -88,7 +95,7 @@ Year | Award | Category
 ---
 
 
-Last updated on November 15, 2019
+Last updated on January 5, 2020
 
 
 ---
