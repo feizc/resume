@@ -47,8 +47,10 @@ Year | Award | Category
 
 * Iterative Refinement for Non-Autoregressive Image Captioning 
 
-  Zhengcong Fei 
+  Zhengcong Fei  
   
+  **IJCAI**2020 under review
+
   [paper]  [code] 
    
   &nbsp;   
