@@ -49,7 +49,7 @@ Year | Award | Category
 
   Zhengcong Fei  
   
-  **IJCAI**2020 under review
+  **IJCAI** 2020 under review
 
   [paper]  [code] 
    
