@@ -61,7 +61,7 @@ Year | Award | Category
 
   **AAAI** 2020 Workshop on Artificial Intelligence of Things, New York, USA, 2020 
 
-  [[paper](https://arxiv.org/abs/1912.06365)]  [code]  [PPT]  
+  [[paper](https://arxiv.org/abs/1912.06365)]  [code]  [[PPT](https://aiotworkshop.github.io/program.html)]  
   
 &nbsp;  
 
