@@ -72,7 +72,7 @@ Year | Award | Category
   **NeurIPS** 2019 Workshop on New In ML, Vancouver, Canada, 2019 
   
  
-  [[paper](https://arxiv.org/abs/1912.01881)]  [[code](https://github.com/feizc)]  
+  [[paper](https://arxiv.org/pdf/1912.01881.pdf)]  [[code](https://github.com/feizc)]  
   
 &nbsp;  
 
