@@ -110,7 +110,7 @@ Year | Award | Category
 ---
 
 
-Last updated on January 5, 2020
+Last updated on February 27, 2020
 
 
 ---
