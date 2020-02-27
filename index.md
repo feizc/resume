@@ -45,7 +45,19 @@ Year | Award | Category
 
 ## Publications 
 
-* Iterative Refinement for Non-Autoregressive Image Captioning 
+
+* Expectation Maximization for Faster Image Captioning 
+
+  Zhengcong Fei  
+  
+  **ECCV** 2020 under review
+
+  [paper]  [code] 
+   
+  &nbsp;   
+
+
+* Iterative Refinement for Relative Difference Image Captioning 
 
   Zhengcong Fei  
   
