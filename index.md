@@ -34,19 +34,19 @@ machine learning, information retrieval
 
 Year | Award | Category
 -----|-------|--------
-2018 | Meritorious Winner  | MCM/ICM
+2018 | Meritorious Winner  | The Mathematical/Interdisciplinary Contest in Modeling
 2018 | First Prize | China Undergraduate Mathematical Contest in Modeling
 2018 | First Prize | MathorCup Mathematical Contest
 2017 | First Prize | Certification Cup Mathematical Contest
 2017 | Second Prize  | National Military Mathematical Modeling League
 2016 | First Prize | Mathematics competition of Chinese College Students
-2015 | First Prize | CMC  
+2015 | First Prize | The Chinese Mathematics Competitions 
 
 
 ## Publications 
 
 
-* Iterative Refinement for Relative Difference Image Captioning 
+* Iterative Refinement for Relative Difference Captioning 
 
   Zhengcong Fei  
   
