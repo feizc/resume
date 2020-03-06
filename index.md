@@ -56,6 +56,16 @@ Year | Award | Category
    
   &nbsp;   
   
+  * Novel Peptide Sequencing with Deep Reinforcement Learning  (**Oral**)
+
+  Zhengcong Fei  
+  
+  **ICME** 2020, London, UK, 2020
+
+  [paper]  [code] 
+   
+  &nbsp;   
+  
 * Fast Image Caption Generation with Position Alignment (**Oral**)
 
   Zhengcong Fei 
@@ -99,7 +109,7 @@ Year | Award | Category
 ---
 
 
-Last updated on February 27, 2020
+Last updated on March 6, 2020
 
 
 ---
