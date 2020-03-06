@@ -56,7 +56,7 @@ Year | Award | Category
    
   &nbsp;   
   
-  * Novel Peptide Sequencing with Deep Reinforcement Learning  (**Oral**)
+* Novel Peptide Sequencing with Deep Reinforcement Learning  (**Oral**)
 
   Zhengcong Fei  
   
