@@ -93,7 +93,7 @@ Year | Award | Category
   Advances in Neural Information Processing Systems (**NeurIPS**) Workshop on New In ML, Vancouver, Canada, 2019 
   
  
-  $\color{blue}{[[paper](https://arxiv.org/abs/1912.01881)]}$  [[code](https://github.com/feizc/GNN-Pytorch)]  
+  [[paper](https://arxiv.org/abs/1912.01881)]  [[code](https://github.com/feizc/GNN-Pytorch)]  
   
 &nbsp;  
 
