@@ -55,7 +55,17 @@ Year | Award | Category
   [paper]  [code] 
    
   &nbsp;   
+
+* Actor-Critic Sequence Generation for Relative Difference Captioning  (**Oral**)
+
+  Zhengcong Fei  
   
+  **ICMR** 2020, Dublin, Ireland, 2020
+
+  [paper]  [code] 
+   
+  &nbsp;   
+
 * Novel Peptide Sequencing with Deep Reinforcement Learning  (**Oral**)
 
   Zhengcong Fei  
