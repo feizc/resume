@@ -60,7 +60,7 @@ Year | Award | Category
 
   Zhengcong Fei  
   
-  **ICMR** 2020, Dublin, Ireland, 2020
+  ACM International Conference on Multimedia Retrieval (**ICMR**) 2020, Dublin, Ireland, 2020
 
   [paper]  [code] 
    
@@ -70,7 +70,7 @@ Year | Award | Category
 
   Zhengcong Fei  
   
-  **ICME** 2020, London, UK, 2020
+  International Conference on Multimedia and Expo (**ICME**) 2020, London, UK, 2020
 
   [paper]  [code] 
    
