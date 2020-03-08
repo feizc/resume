@@ -60,7 +60,7 @@ Year | Award | Category
 
   Zhengcong Fei  
   
-  ACM International Conference on Multimedia Retrieval (**ICMR**) 2020, Dublin, Ireland, 2020
+  ACM International Conference on Multimedia Retrieval (**ICMR**), Dublin, Ireland, 2020
 
   [paper]  [code] 
    
@@ -70,7 +70,7 @@ Year | Award | Category
 
   Zhengcong Fei  
   
-  International Conference on Multimedia and Expo (**ICME**) 2020, London, UK, 2020
+  IEEE International Conference on Multimedia and Expo (**ICME**), London, UK, 2020
 
   [paper]  [code] 
    
@@ -80,7 +80,7 @@ Year | Award | Category
 
   Zhengcong Fei 
 
-  **AAAI** 2020 Workshop on Artificial Intelligence of Things, New York, USA, 2020 
+  Association for Advancement of Artificial Intelligence (**AAAI**) Workshop on Artificial Intelligence of Things, New York, USA, 2020 
 
   [[paper](https://arxiv.org/abs/1912.06365)]  [code]  [[PPT](https://aiotworkshop.github.io/program.html)]  
   
@@ -90,7 +90,7 @@ Year | Award | Category
 
   Zhengcong Fei 
 
-  **NeurIPS** 2019 Workshop on New In ML, Vancouver, Canada, 2019 
+  Advances in Neural Information Processing Systems (**NeurIPS**) Workshop on New In ML, Vancouver, Canada, 2019 
   
  
   [[paper](https://arxiv.org/abs/1912.01881)]  [[code](https://github.com/feizc/GNN-Pytorch)]  
