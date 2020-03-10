@@ -46,6 +46,13 @@ Year | Award | Category
 ## Publications 
 
 
+* Better Relative Difference Captioning with Multi-Task Learning
+  
+  Zhengcong Fei
+  
+  **ACM MM** 2020 under review
+
+
 * Iterative Refinement for Relative Difference Captioning 
 
   Zhengcong Fei  
