@@ -7,7 +7,7 @@ layout: default
 <img class="profile-picture" src="picture1.png">
   
   
-candidate master  
+Candidate Master  
 
 Institute of Computing Technology, Chinese Academy of Sciences  
 
@@ -90,7 +90,7 @@ Year | Award | Category
 
   Association for Advancement of Artificial Intelligence (**AAAI**) Workshop on Artificial Intelligence of Things, New York, USA, 2020 
 
-  [[paper](https://arxiv.org/abs/1912.06365)]  [code]  [[PPT](https://aiotworkshop.github.io/program.html)]  
+  [[paper](https://arxiv.org/abs/1912.06365)]  [code]  [[PPT](https://aiotworkshop.github.io/2020/program.html)]  
   
 &nbsp;  
 
