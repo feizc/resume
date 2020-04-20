@@ -54,11 +54,11 @@ Year | Award | Category
    
   &nbsp;
 
-* Iterative Refinement for Relative Difference Captioning 
+* Improving Tandem Mass Spectrua Analysis with Hierarchical Learning 
 
   Zhengcong Fei  
   
-  **IJCAI** 2020 under review
+  International Joint Conference on Artificial Intelligence (**IJCAI**), Yokohama, Japan, 2020
 
   [paper]  [code] 
    
@@ -134,7 +134,7 @@ Reviewer: **NeurIPS**2020
 ---
 
 
-Last updated on April 2, 2020
+Last updated on April 20, 2020
 
 
 ---
