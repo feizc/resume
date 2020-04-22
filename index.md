@@ -53,7 +53,7 @@ Year | Award | Category
    
   &nbsp; 
 
-* Better Relative Difference Captioning with Multi-Task Learning
+* Iterative Back-Modification for Fast Image Captioning 
   
   Zhengcong Fei
   
