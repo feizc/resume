@@ -43,6 +43,15 @@ Year | Award | Category
 
 ## Publications 
 
+* Improving Peptide Sequencing from Tandem Mass Spectra via Reinforced Multi-Task Learning 
+
+  Zhengcong Fei, Hao Chi
+  
+  **NeurIPS** 2020 under review
+  
+  [paper]  [code] 
+   
+  &nbsp; 
 
 * Better Relative Difference Captioning with Multi-Task Learning
   
@@ -52,8 +61,8 @@ Year | Award | Category
   
   [paper]  [code] 
    
-  &nbsp;
-
+  &nbsp;  
+  
 * Improving Tandem Mass Spectrua Analysis with Hierarchical Learning 
 
   Zhengcong Fei  
