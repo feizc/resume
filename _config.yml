@@ -7,9 +7,9 @@ markdown: kramdown
 
 tracking_id: #
 
-footer: no
-footer_url: "https://github.com/ankitsultana"
-footer_text: "Page design by Ankit Sultana"
+#footer: no
+#footer_url: "https://github.com/ankitsultana"
+#footer_text: "Page design by Ankit Sultana"
 
 #sass:
 #    style: compressed
