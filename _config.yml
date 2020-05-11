@@ -15,10 +15,10 @@ footer_text: "Page design by Ankit Sultana"
 #    style: compressed
 #    sass_dir: _sass
 
-#nav:
+nav:
 # - name: "About"
 #   link: "index"
-# - name: "Resume"
-#   link: "resume.pdf"
+ - name: "Resume"
+   link: "CV.pdf"
 # - name: "Contact Me"
 #   link: "contact"
