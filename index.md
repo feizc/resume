@@ -79,7 +79,7 @@ Year | Award | Category
   
   ACM International Conference on Multimedia Retrieval (**ICMR**), Dublin, Ireland, 2020
 
-  [paper]  [code] 
+  [[paper](https://dl.acm.org/doi/abs/10.1145/3372278.3390679)]  [code] 
    
   &nbsp;   
 
@@ -120,7 +120,7 @@ Year | Award | Category
   
   **Proteomics** under review
   
-  [paper]  [code] 
+  [paper]  [[code](https://github.com/feizc/GameTag)] 
 
 &nbsp;  
 
