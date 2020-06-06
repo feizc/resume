@@ -79,7 +79,7 @@ Year | Award | Category
   
   ACM International Conference on Multimedia Retrieval (**ICMR**), Dublin, Ireland, 2020
 
-  [[paper](https://dl.acm.org/doi/abs/10.1145/3372278.3390679)]  [code] 
+  [[paper](https://dl.acm.org/doi/pdf/10.1145/3372278.3390679)]  [code] 
    
   &nbsp;   
 
