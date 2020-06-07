@@ -38,20 +38,11 @@ Year | Award | Category
 2017 | First Prize | Certification Cup Mathematical Contest
 2017 | Second Prize  | National Military Mathematical Modeling League
 2016 | First Prize | Mathematics competition of Chinese College Students
-2015 | First Prize | The Chinese Mathematics Competitions 
+2015 | First Prize | Chinese Mathematics Competitions 
 
 
 ## Publications 
 
-* Improving Peptide Sequencing from Tandem Mass Spectra via Reinforced Multi-Task Learning 
-
-  Zhengcong Fei, Hao Chi
-  
-  **NeurIPS** 2020 under review
-  
-  [paper]  [code] 
-   
-  &nbsp; 
 
 * Iterative Back-Modification for Fast Image Captioning 
   
@@ -143,7 +134,7 @@ Reviewer: **NeurIPS**2020
 ---
 
 
-Last updated on April 20, 2020
+Last updated on Jun 6, 2020
 
 
 ---
