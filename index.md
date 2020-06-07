@@ -105,11 +105,22 @@ Year | Award | Category
   
 &nbsp;  
 
+
+* pDeep3: Towards More Accurate Spectrum Prediction with Fast Few-Shot Learning   
+
+  Wen-Feng Zeng*, Ching Tarn*, Zhengcong Fei, Si-Min He  
+
+  **Analytical Chemistry** under review  
+ 
+  [paper]  [[code](https://github.com/pFindStudio/pDeep3)]  
+  
+&nbsp;  
+
 * GameTag: A New Sequence Tag Generation Algorithm Based on Cooperative Game Theory 
 
-  Zhengcong Fei, Hao Chi  
+  Zhengcong Fei, Kaifei Wang, Si-min He, Hao Chi  
   
-  **Proteomics** under review
+  **Proteomics** under review 
   
   [paper]  [[code](https://github.com/feizc/GameTag)] 
 
