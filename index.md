@@ -67,7 +67,7 @@ Year | Award | Category
   
   International Joint Conference on Artificial Intelligence (**IJCAI**), Yokohama, Japan, 2020
 
-  [paper]  [code] 
+  [[paper](http://static.ijcai.org/2020-accepted_papers.html)]  [code] 
    
   &nbsp;   
 
@@ -87,7 +87,7 @@ Year | Award | Category
   
   IEEE International Conference on Multimedia and Expo (**ICME**), London, UK, 2020
 
-  [paper]  [code] 
+  [[paper](https://ieeexplore.ieee.org/document/9102827)]  [code] 
    
   &nbsp;   
   
