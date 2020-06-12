@@ -48,7 +48,8 @@ Year | Award | Category
   Zhengcong Fei 
   
   [paper] [code] 
-
+  
+  &nbsp;  
 
 * Iterative Back-Modification for Fast Image Captioning 
   
