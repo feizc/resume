@@ -43,6 +43,12 @@ Year | Award | Category
 
 ## Publications 
 
+* Partial Non-Autoregressive Image Captioning  
+  
+  Zhengcong Fei 
+  
+  [paper] [code] 
+
 
 * Iterative Back-Modification for Fast Image Captioning 
   
@@ -145,7 +151,7 @@ Reviewer: **NeurIPS**2020
 ---
 
 
-Last updated on Jun 6, 2020
+Last updated on Jun 12, 2020
 
 
 ---
