@@ -62,7 +62,7 @@ Year | Award | Category
    
   &nbsp;  
   
-* Improving Tandem Mass Spectrua Analysis with Hierarchical Learning 
+* Improving Tandem Mass Spectra Analysis with Hierarchical Learning 
 
   Zhengcong Fei  
   
@@ -153,7 +153,7 @@ Reviewer: **NeurIPS**2020
 ---
 
 
-Last updated on Jun 12, 2020
+Last updated on Jun 19, 2020
 
 
 ---
