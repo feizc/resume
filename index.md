@@ -52,7 +52,7 @@ Year | Award | Category
   
   &nbsp;  
 
-* Iterative Back-Modification for Fast Image Captioning 
+* Iterative Back Modification for Faster Image Captioning 
   
   Zhengcong Fei
   
@@ -126,7 +126,7 @@ Year | Award | Category
 
 * GameTag: A New Sequence Tag Generation Algorithm Based on Cooperative Game Theory 
 
-  Zhengcong Fei, Kaifei Wang, Si-min He, Hao Chi  
+  Zhengcong Fei, Kaifei Wang, Hao Chi  
   
   **Proteomics** under review 
   
