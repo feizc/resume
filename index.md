@@ -44,6 +44,15 @@ Year | Award | Category
 
 ## Publications 
 
+* Stop Selecting Batch Randomly and Train Your Caption Generator Scheduled   
+  
+  Zhengcong Fei 
+  
+  [paper] [code] 
+  
+  &nbsp;  
+
+
 * Partial Non-Autoregressive Image Captioning  
   
   Zhengcong Fei 
@@ -56,7 +65,7 @@ Year | Award | Category
   
   Zhengcong Fei
   
-  **ACM MM** 2020 under review
+  ACM Multimedia (**MM**), Seattle, United States, 2020
   
   [paper]  [code] 
    
@@ -153,7 +162,7 @@ Reviewer: **NeurIPS**2020
 ---
 
 
-Last updated on Jun 19, 2020
+Last updated on July 26, 2020
 
 
 ---
