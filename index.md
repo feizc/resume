@@ -65,7 +65,7 @@ Year | Award | Category
   
   Zhengcong Fei
   
-  ACM Multimedia (**MM**), Seattle, United States, 2020
+  ACM Multimedia (**ACM MM**), Seattle, United States, 2020
   
   [paper]  [code] 
    
