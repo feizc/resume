@@ -69,7 +69,7 @@ Vision and Language, Reinforcement Learning
   
   International Joint Conference on Artificial Intelligence (**IJCAI**), Yokohama, Japan, 2020
 
-  [[paper](http://static.ijcai.org/2020-accepted_papers.html)]  [code] 
+  [[paper](https://www.ijcai.org/Proceedings/2020/0599.pdf)]  [code] 
    
   &nbsp;   
 
