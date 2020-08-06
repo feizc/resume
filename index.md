@@ -27,7 +27,7 @@ September, 2015 - June, 2019 | Bachelor of Electronic information engineering, N
 
 ## Research Interest
 
-Reinforcement Learning, Vision and Language
+Vision and Language, Reinforcement Learning 
 
 ## Awards
 
@@ -41,6 +41,11 @@ Year | Award | Category
 2016 | First Prize | Mathematics competition of Chinese College Students
 2015 | First Prize | Chinese Mathematics Competitions 
 
+
+## Competitions 
+
+* Our team (Zekang Li, Xiangru Tang, Xiaohao Xu, and Hui zheng) won the first place in the innovation track, Deecamp, Innovation Works. 
+   This project is about science fiction generation.
 
 ## Publications 
 
