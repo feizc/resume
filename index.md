@@ -162,7 +162,7 @@ Reviewer: **NeurIPS**2020
 ---
 
 
-Last updated on July 26, 2020
+Last updated on Aug 6, 2020
 
 
 ---
