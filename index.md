@@ -18,7 +18,6 @@ Email: [feizhengcong@ict.ac.cn](mailto:feizhengcong@ict.ac.cn)
 know more about me: [zhihu](https://www.zhihu.com/people/mai-zi-31-63/activities) [github](https://github.com/feizc)   [scholar](https://scholar.google.com/citations?user=_43YnBcAAAAJ&hl=zh-CN) 
 
  
-
 ## Biography
 
 September, 2019 - Present | M.D. Candidate, Computer Application Technology, ict.   
@@ -29,22 +28,10 @@ September, 2015 - June, 2019 | Bachelor of Electronic information engineering, N
 
 Vision and Language, Reinforcement Learning 
 
-## Awards
-
-Year | Award | Category
------|-------|--------
-2018 | Meritorious Winner  | The Mathematical/Interdisciplinary Contest in Modeling
-2018 | First Prize | China Undergraduate Mathematical Contest in Modeling
-2018 | First Prize | MathorCup Mathematical Contest
-2017 | First Prize | Certification Cup Mathematical Contest
-2017 | Second Prize  | National Military Mathematical Modeling League
-2016 | First Prize | Mathematics competition of Chinese College Students
-2015 | First Prize | Chinese Mathematics Competitions 
-
 
 ## Competitions 
 
-* Our team (Zekang Li, Xiangru Tang, Xiaohao Xu, and Hui zheng) won the first place in the innovation track, Deecamp, Innovation Works. 
+* Our team (Zekang Li, Xiangru Tang, Xiaohao Xu, and Hui zheng) won the **first place** in the innovation track, Deecamp, Innovation Works. 
    This project is about science fiction generation.
 
 ## Publications 
@@ -149,6 +136,25 @@ Year | Award | Category
 &nbsp;  
 
 
+## Services
+
+Reviewer: **NeurIPS**2020
+
+
+
+## Honors & Awards
+
+Year | Award | Category
+-----|-------|--------
+2018 | Meritorious Winner  | The Mathematical/Interdisciplinary Contest in Modeling
+2018 | First Prize | China Undergraduate Mathematical Contest in Modeling
+2018 | First Prize | MathorCup Mathematical Contest
+2017 | First Prize | Certification Cup Mathematical Contest
+2017 | Second Prize  | National Military Mathematical Modeling League
+2016 | First Prize | Mathematics competition of Chinese College Students
+2015 | First Prize | Chinese Mathematics Competitions  
+
+
 ## Skills
 
 * Familiar with  C++，python
@@ -156,11 +162,6 @@ Year | Award | Category
 * Know  MATLAB, LaTeX
 
 * CET-6: 551; CET-4: 571
-
-
-## Services
-
-Reviewer: **NeurIPS**2020
 
 
 
