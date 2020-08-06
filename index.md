@@ -136,10 +136,6 @@ Vision and Language, Reinforcement Learning
 &nbsp;  
 
 
-## Services
-
-Reviewer: **NeurIPS**2020
-
 
 
 ## Honors & Awards
@@ -162,7 +158,12 @@ Year | Award | Category
 * Know  MATLAB, LaTeX
 
 * CET-6: 551; CET-4: 571
+ 
 
+
+## Services
+
+Reviewer: **NeurIPS**2020
 
 
 ---
