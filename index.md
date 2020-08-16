@@ -36,7 +36,7 @@ Vision and Language, Reinforcement Learning
 
 ## Publications 
 
-* Improving Analysis of Tandem Mass Spectra with Interactive Ensemble
+* Improving peptide sequencing with Interactive Ensemble
   
   Zhengcong Fei 
   
