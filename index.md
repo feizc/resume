@@ -36,7 +36,7 @@ Vision and Language, Reinforcement Learning
 
 ## Publications 
 
-* Stop Selecting Batch Randomly and Train Your Caption Generator Scheduled   
+* Improving Analysis of Tandem Mass Spectra with Interactive Ensemble
   
   Zhengcong Fei 
   
@@ -45,10 +45,12 @@ Vision and Language, Reinforcement Learning
   &nbsp;  
 
 
-* Partial Non-Autoregressive Image Captioning  
+* Partially Non-Autoregressive Image Captioning  
   
   Zhengcong Fei 
   
+  AAAI 2021 under review
+
   [paper] [[code](https://github.com/feizc/PNAIC/tree/master)] 
   
   &nbsp;  
