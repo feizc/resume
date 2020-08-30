@@ -31,12 +31,12 @@ Vision and Language, Reinforcement Learning
 
 ## Competitions 
 
-* Our team (Zekang Li, Xiangru Tang, Xiaohao Xu, and Hui zheng) won the **first place** in the innovation track, Deecamp, Sinovation Ventures. 
+* Our team ([[Zekang Li](https://zekangli.com/)], Xiangru Tang, Xiaohao Xu, and Hui zheng) won the **first place** in the innovation track, Deecamp, Sinovation Ventures. 
    This project is about science fiction generation.
 
 ## Publications 
 
-* Improving peptide sequencing with Interactive Ensemble
+* Retrieval and Revise: Improving Peptide Identification with Similar Mass Spectra
   
   Zhengcong Fei 
   
@@ -171,7 +171,7 @@ Reviewer: **NeurIPS**2020
 ---
 
 
-Last updated on Aug 6, 2020
+Last updated on Aug 30, 2020
 
 
 ---
