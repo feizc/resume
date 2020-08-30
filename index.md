@@ -31,7 +31,7 @@ Vision and Language, Reinforcement Learning
 
 ## Competitions 
 
-* Our team ([Zekang Li(https://zekangli.com/)], Xiangru Tang, Xiaohao Xu, and Hui zheng) won the **first place** in the innovation track, Deecamp, Sinovation Ventures. 
+* Our team ([Zekang Li](https://zekangli.com/), Xiangru Tang, Xiaohao Xu, and Hui zheng) won the **first place** in the innovation track, Deecamp, Sinovation Ventures. 
    This project is about science fiction generation.
 
 ## Publications 
