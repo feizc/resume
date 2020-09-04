@@ -133,7 +133,7 @@ Vision and Language, Reinforcement Learning
 
   Zhengcong Fei, Kaifei Wang, Hao Chi  
   
-  **Proteomics** under review 
+  **Proteomics** 
   
   [paper]  [[code](https://github.com/feizc/GameTag)] 
 
