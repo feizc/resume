@@ -20,7 +20,7 @@ know more about me: [zhihu](https://www.zhihu.com/people/mai-zi-31-63/activities
  
 ## Biography
 
-September, 2019 - Present | M.D. Candidate, Computer Application Technology, ict.   
+September, 2019 - Present | M.D. Candidate, Computer Application Technology, ICT.   
 April, 2018 - October, 2018 | Research intern, Peking University.  
 September, 2015 - June, 2019 | Bachelor of Electronic information engineering, NJUST; GPA: 3.75/4 (rank: 1/165).     
 
@@ -38,7 +38,7 @@ Vision and Language, Reinforcement Learning
 
 ## Publications 
 
-* Retrieval and Revise: Improving Peptide Identification with Similar Mass Spectra
+* Retrieve and Revise: Improving Peptide Identification with Similar Mass Spectra
   
   Zhengcong Fei 
   
@@ -173,7 +173,7 @@ Reviewer: **NeurIPS**2020
 ---
 
 
-Last updated on Aug 30, 2020
+Last updated on Sep 9, 2020
 
 
 ---
