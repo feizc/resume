@@ -38,7 +38,7 @@ Vision and Language, Reinforcement Learning
 
 ## Publications 
 
-* Retrieve and Revise: Improving Peptide Identification with Similar Mass Spectra
+* Towards Effective Training Schedule for Image Caption Generation via Curriculum Learning
   
   Zhengcong Fei 
   
