@@ -1,6 +1,6 @@
 title: Homepage
 #url: "https://www.zhihu.com/people/mai-zi-31-63/activities"
-#baseurl: "/Zhengcong Fei(费政聪)"
+#baseurl: "/Zhengcong Fei(费政聪)" 
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
@@ -14,7 +14,7 @@ tracking_id: #
 #sass:
 #    style: compressed
 #    sass_dir: _sass
-
+ 
 nav:
 # - name: "About"
 #   link: "index"
