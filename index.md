@@ -38,7 +38,7 @@ Vision and Language, Reinforcement Learning
 
 ## Publications 
 
-* Towards Effective Training Schedule for Image Caption Generation via Curriculum Learning
+* A Difficulty-Aware Curriculum for Caption Generator Learning 
   
   Zhengcong Fei 
   
