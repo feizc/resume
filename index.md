@@ -11,7 +11,7 @@ Candidate Master
 
 Institute of Computing Technology, Chinese Academy of Sciences  
 
-No.6 Zhongguancun South Road, Beijing, China, 100190  
+No.6 Kexueyuan South Road Zhongguancun, Beijing, China, 100190  
 
 Email: [feizhengcong@ict.ac.cn](mailto:feizhengcong@ict.ac.cn)  
 
@@ -145,14 +145,16 @@ Vision and Language, Reinforcement Learning
 ## Honors & Awards
 
 Year | Award | Category
------|-------|--------
-2018 | Meritorious Winner  | The Mathematical/Interdisciplinary Contest in Modeling
-2018 | First Prize | China Undergraduate Mathematical Contest in Modeling
-2018 | First Prize | MathorCup Mathematical Contest
-2017 | First Prize | Certification Cup Mathematical Contest
-2017 | Second Prize  | National Military Mathematical Modeling League
-2016 | First Prize | Mathematics competition of Chinese College Students
-2015 | First Prize | Chinese Mathematics Competitions  
+-----|-------
+2018| China National Scholarship 
+2018| Outstanding Student Award, NJUST
+2018 | The Mathematical/Interdisciplinary Contest in Modeling, Meritorious Winner
+2018 | China Undergraduate Mathematical Contest in Modeling, First Prize 
+2018 |  MathorCup Mathematical Contest, First Prize
+2017 |  Certification Cup Mathematical Contest, First Prize
+2017 |  National Military Mathematical Modeling League, Second Prize
+2016 |  Mathematics competition of Chinese College Students, First Prize
+2015 | Chinese Mathematics Competitions, First Prize 
 
 
 ## Skills
