@@ -144,13 +144,13 @@ Vision and Language, Reinforcement Learning
 
 ## Honors & Awards
 
-Year | Award | Category
 -----|-------
 2018| China National Scholarship 
 2018| Outstanding Student Award, NJUST
 2018 | The Mathematical/Interdisciplinary Contest in Modeling, Meritorious Winner
 2018 | China Undergraduate Mathematical Contest in Modeling, First Prize 
 2018 |  MathorCup Mathematical Contest, First Prize
+2017 | Suzhou Industrial Park Scholarship 
 2017 |  Certification Cup Mathematical Contest, First Prize
 2017 |  National Military Mathematical Modeling League, Second Prize
 2016 |  Mathematics competition of Chinese College Students, First Prize
@@ -161,7 +161,7 @@ Year | Award | Category
 
 * Familiar with  C++，python
 
-* Know  MATLAB, LaTeX
+* Know  Shell, MATLAB and LaTeX
 
 * CET-6: 551; CET-4: 571
  
@@ -175,7 +175,7 @@ Reviewer: **NeurIPS**2020
 ---
 
 
-Last updated on Sep 9, 2020
+Last updated on Oct 2, 2020
 
 
 ---
