@@ -83,7 +83,7 @@ Vision and Language, Reinforcement Learning
   
   ACM International Conference on Multimedia Retrieval (**ICMR**), Dublin, Ireland, 2020
 
-  [[paper](https://dl.acm.org/doi/pdf/10.1145/3372278.3390679)]  [code] 
+  [[paper](https://dl.acm.org/doi/pdf/10.1145/3372278.3390679)]  [code] [[video](https://www.loom.com/share/a4ec9e4b53fd47209717e325bd2ed80f)]
    
   &nbsp;   
 
