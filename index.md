@@ -135,7 +135,7 @@ Vision and Language, Reinforcement Learning
   
   **Proteomics** 
   
-  [paper]  [[code](https://github.com/feizc/GameTag)] 
+  [[paper](https://onlinelibrary.wiley.com/doi/full/10.1002/pmic.202000021?af=R)]  [[code](https://github.com/feizc/GameTag)] 
 
 &nbsp;  
 
