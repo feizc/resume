@@ -65,7 +65,7 @@ Vision and Language, Reinforcement Learning
   
   ACM Multimedia (**ACM MM**), Seattle, United States, 2020
   
-  [paper]  [code] 
+  [[paper](https://dl.acm.org/doi/abs/10.1145/3394171.3413901)]  [code]  [[video](https://dl.acm.org/doi/abs/10.1145/3394171.3413901)]
    
   &nbsp;  
   
