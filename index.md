@@ -127,7 +127,7 @@ Vision and Language, Reinforcement Learning
 
   **Analytical Chemistry** under review  
  
-  [paper]  [[code](https://github.com/pFindStudio/pDeep3)]  
+  [[paper](https://www.biorxiv.org/content/10.1101/2020.09.13.295105v1)]  [[code](https://github.com/pFindStudio/pDeep3)]  
   
 &nbsp;  
 
