@@ -147,7 +147,8 @@ Vision and Language, Reinforcement Learning
 ## Honors & Awards
 
 -----|-------
-2018| China National Scholarship 
+2020| China National Scholarship, ICT 
+2018| China National Scholarship, NJUST 
 2018| Outstanding Student Award, NJUST
 2018 | The Mathematical/Interdisciplinary Contest in Modeling, Meritorious Winner
 2018 | China Undergraduate Mathematical Contest in Modeling, First Prize 
@@ -177,7 +178,7 @@ Reviewer: **NeurIPS**2020
 ---
 
 
-Last updated on Oct 2, 2020
+Last updated on Oct 29, 2020
 
 
 ---
