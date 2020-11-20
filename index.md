@@ -38,7 +38,7 @@ Vision and Language, Reinforcement Learning
 
 ## Publications 
 
-* A Difficulty-Aware Curriculum for Caption Generator Learning 
+* Train or Not? A Difficulty-Aware Curriculum for Caption Generator Learning 
   
   Zhengcong Fei 
   
