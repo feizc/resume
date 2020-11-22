@@ -38,7 +38,16 @@ Vision and Language, Reinforcement Learning
 
 ## Publications 
 
-* Train or Not? A Difficulty-Aware Curriculum for image captioning 
+* Learn-to-Rank Estimation Enables Diverse and Accurate Image Captioning 
+  
+  Zhengcong Fei 
+  
+  [paper] [code] 
+  
+  &nbsp;  
+
+
+* Train or Not? A Competence-Aware Curriculum for image captioning 
   
   Zhengcong Fei 
   
