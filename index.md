@@ -40,7 +40,6 @@ Vision and Language, Reinforcement Learning
 
 * Fold Decoding: An Effective and Efficient Framework for Caption Refinement  
   
-  Zhengcong Fei 
   
   [paper] [code] 
   
