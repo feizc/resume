@@ -38,6 +38,15 @@ Vision and Language, Reinforcement Learning
 
 ## Publications 
 
+* Fold Decoding: An Effective and Efficient Framework for Caption Refinement  
+  
+  Zhengcong Fei 
+  
+  [paper] [code] 
+  
+  &nbsp;  
+
+
 * Learn-to-Rank Estimation Enables Diverse and Accurate Image Captioning 
   
   Zhengcong Fei 
