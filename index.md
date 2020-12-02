@@ -70,7 +70,7 @@ Vision and Language, Reinforcement Learning
 
   Zhengcong Fei 
   
-  Association for Advancement of Artificial Intelligence (**AAAI**), Visual, 2021 
+  Association for Advancement of Artificial Intelligence (**AAAI**), Virtual, 2021 
   
   [paper] [code] 
   
@@ -81,7 +81,7 @@ Vision and Language, Reinforcement Learning
   
   Zhengcong Fei 
   
-  Association for Advancement of Artificial Intelligence (**AAAI**), Visual, 2021 
+  Association for Advancement of Artificial Intelligence (**AAAI**), Virtual, 2021 
 
   [paper] [[code](https://github.com/feizc/PNAIC/tree/master)] 
   
@@ -91,7 +91,7 @@ Vision and Language, Reinforcement Learning
   
   Zhengcong Fei 
   
-  Association for Advancement of Artificial Intelligence (**AAAI**), Visual, 2021 
+  Association for Advancement of Artificial Intelligence (**AAAI**), Virtual, 2021 
   
   [paper] [code] 
   
