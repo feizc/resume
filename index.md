@@ -66,13 +66,34 @@ Vision and Language, Reinforcement Learning
   &nbsp;  
 
 
+* Memory-Augumented Image Captioning   
+
+  Zhengcong Fei 
+  
+  Association for Advancement of Artificial Intelligence (**AAAI**), Visual, 2021 
+  
+  [paper] [code] 
+  
+  &nbsp;  
+
+
 * Partially Non-Autoregressive Image Captioning  
   
   Zhengcong Fei 
   
-  AAAI 2021 under review
+  Association for Advancement of Artificial Intelligence (**AAAI**), Visual, 2021 
 
   [paper] [[code](https://github.com/feizc/PNAIC/tree/master)] 
+  
+  &nbsp;  
+
+* Retrieve and Revise: Improving Peptide Identification with Similar Mass Spectra 
+  
+  Zhengcong Fei 
+  
+  Association for Advancement of Artificial Intelligence (**AAAI**), Visual, 2021 
+  
+  [paper] [code] 
   
   &nbsp;  
 
