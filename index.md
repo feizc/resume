@@ -210,13 +210,13 @@ Vision and Language, Reinforcement Learning
 
 ## Services
 
-Reviewer: **NeurIPS**2020; **IJCAI**2021
+Reviewer: **NeurIPS**2020; **CVPR 2021**; **IJCAI**2021
 
 
 ---
 
 
-Last updated on Oct 29, 2020
+Last updated on Dec 8, 2020
 
 
 ---
