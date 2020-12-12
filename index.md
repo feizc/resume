@@ -40,6 +40,7 @@ Vision and Language, Reinforcement Learning
 
 * Better and Faster: Uncertainty-Aware Image Caption Generation    
   
+  Zhengcong Fei\*, Zekang Li\*, ...
   
   [paper] [[code](https://github.com/feizc/UAIC)] 
   
