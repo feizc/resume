@@ -93,7 +93,7 @@ Vision and Language, Reinforcement Learning
   
   Zhengcong Fei
   
-  ACM Multimedia (**ACM MM**), Seattle, United States, 2020
+  ACM International Conference on Multimedia (**ACM Multimedia**), Seattle, United States, 2020
   
   [[paper](https://dl.acm.org/doi/abs/10.1145/3394171.3413901)]  [code]  [[video](https://dl.acm.org/doi/abs/10.1145/3394171.3413901)]
    
@@ -202,7 +202,7 @@ Vision and Language, Reinforcement Learning
 
 ## Services
 
-Reviewer: **NeurIPS**2020; **CVPR 2021**; **IJCAI**2021
+Reviewer: **NeurIPS**2020; **CVPR**2021; **IJCAI**2021
 
 
 ---
