@@ -154,7 +154,7 @@ Vision and Language, Reinforcement Learning
 
 * pDeep3: Towards More Accurate Spectrum Prediction with Fast Few-Shot Learning   
 
-  Wen-Feng Zeng*, Ching Tarn*, Zhengcong Fei, Si-Min He  
+  Wen-Feng Zeng\*, Ching Tarn\*, Zhengcong Fei, Si-Min He  
 
   **Analytical Chemistry** under review  
  
