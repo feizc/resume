@@ -38,21 +38,13 @@ Vision and Language, Reinforcement Learning
 
 ## Publications 
 
-* Fold Decoding: An Effective and Efficient Framework for Caption Refinement  
+* Better and Faster: Uncertainty-Aware Image Caption Generation    
   
   
-  [paper] [[code](https://github.com/feizc/Fold-Decoding)] 
-  
-  &nbsp;  
-
-
-* Learn-to-Rank Estimation Enables Diverse and Accurate Image Captioning 
-  
-  Zhengcong Fei 
-  
-  [paper] [code] 
+  [paper] [[code](https://github.com/feizc/UAIC)] 
   
   &nbsp;  
+ 
 
 
 * Train or Not? A Competence-Aware Curriculum for image captioning 
