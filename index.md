@@ -18,16 +18,19 @@ Email: [feizhengcong@ict.ac.cn](mailto:feizhengcong@ict.ac.cn)
 know more about me: [zhihu](https://www.zhihu.com/people/mai-zi-31-63/activities) [github](https://github.com/feizc)   [scholar](https://scholar.google.com/citations?user=_43YnBcAAAAJ&hl=zh-CN) 
 
  
-## Biography
+## Education 
 
 September, 2019 - Present | M.D. Candidate, Computer Application Technology, ICT.   
-April, 2018 - October, 2018 | Research intern, Peking University.  
-September, 2015 - June, 2019 | Bachelor of Electronic information engineering, NJUST; GPA: 3.75/4 (rank: 1/165).     
+September, 2015 - June, 2019 | Bachelor of Electronic information engineering, NJUST; GPA: 3.75/4 (rank: 1/165). 
 
 ## Research Interest
 
 Vision and Language, Reinforcement Learning 
 
+## Working Experience 
+
+July, 2020 - October, 2020 | Research intern, AIEI, Sinovation Ventures.
+April, 2018 - October, 2018 | Research intern, AAIS, Peking University.  
 
 ## Competitions 
 
