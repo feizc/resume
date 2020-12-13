@@ -27,10 +27,10 @@ September, 2015 - June, 2019 | Bachelor of Electronic information engineering, N
 
 Vision and Language, Reinforcement Learning 
 
-## Working Experience 
+## Experience 
 
-July, 2020 - October, 2020 | Research intern, AIEI, Sinovation Ventures.
-April, 2018 - October, 2018 | Research intern, AAIS, Peking University.  
+July, 2020 - October, 2020 | AIEI, Sinovation Ventures.
+April, 2018 - October, 2018 | AAIS, Peking University.  
 
 ## Competitions 
 
