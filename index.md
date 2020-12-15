@@ -41,6 +41,16 @@ April, 2018 - October, 2018 | AAIS, Peking University.
 
 ## Publications 
 
+
+* Make Conversion Fascinating: Incorporating Visual Expression into Open Dialogue 
+
+  Zhengcong Fei\*, Zekang Li\*, ...
+  
+  [paper] [[code](https://github.com/feizc/Dialogue-System)]
+
+   &nbsp;  
+ 
+
 * Better and Faster: Uncertainty-Aware Image Caption Generation    
   
   Zhengcong Fei\*, Zekang Li\*, ...
