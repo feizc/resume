@@ -216,13 +216,13 @@ April, 2018 - October, 2018 | AAIS, Peking University.
 
 ## Services
 
-Reviewer: **NeurIPS**2020; **CVPR**2021; **IJCAI**2021
+Reviewer: **NeurIPS**2020; **CVPR**2021; **ICML**2021; **IJCAI**2021
 
 
 ---
 
 
-Last updated on Dec 8, 2020
+Last updated on Dec 20, 2020
 
 
 ---
