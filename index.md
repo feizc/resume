@@ -49,9 +49,18 @@ April, 2018 - October, 2018 | AAIS, Peking University.
   [paper] [[code](https://github.com/feizc/Dialogue-System)]
 
    &nbsp;  
- 
 
-* Better and Faster: Uncertainty-Aware Image Caption Generation    
+
+* RICE: Reference-free Image Captioning Evaluation     
+  
+  Zhengcong Fei\*, Zekang Li\*, ...
+  
+  [paper] [[code](https://github.com/feizc/RICE)] 
+  
+  &nbsp;  
+  
+
+* Uncertainty-Aware Image Captioning    
   
   Zhengcong Fei\*, Zekang Li\*, ...
   
@@ -72,34 +81,34 @@ April, 2018 - October, 2018 | AAIS, Peking University.
   &nbsp;  
 
 
-* Memory-Augumented Image Captioning   
+* Memory-Augumented Image Captioning   (**Oral**) 
 
   Zhengcong Fei 
   
   Association for Advancement of Artificial Intelligence (**AAAI**), Virtual, 2021 
   
-  [paper] [code] 
+  [paper] [code] [video]
   
   &nbsp;  
 
 
-* Partially Non-Autoregressive Image Captioning  
+* Partially Non-Autoregressive Image Captioning  (**Oral**) 
   
   Zhengcong Fei 
   
   Association for Advancement of Artificial Intelligence (**AAAI**), Virtual, 2021 
 
-  [paper] [[code](https://github.com/feizc/PNAIC/tree/master)] 
+  [paper] [[code](https://github.com/feizc/PNAIC/tree/master)] [video]
   
   &nbsp;  
 
-* Retrieve and Revise: Improving Peptide Identification with Similar Mass Spectra 
+* Retrieve and Revise: Improving Peptide Identification with Similar Mass Spectra (**Oral**) 
   
   Zhengcong Fei 
   
   Association for Advancement of Artificial Intelligence (**AAAI**), Virtual, 2021 
   
-  [paper] [code] 
+  [paper] [code] [video]
   
   &nbsp;  
 
@@ -113,13 +122,13 @@ April, 2018 - October, 2018 | AAIS, Peking University.
    
   &nbsp;  
   
-* Improving Tandem Mass Spectra Analysis with Hierarchical Learning 
+* Improving Tandem Mass Spectra Analysis with Hierarchical Learning  (**Oral**) 
 
   Zhengcong Fei  
   
   International Joint Conference on Artificial Intelligence (**IJCAI**), Yokohama, Japan, 2020
 
-  [[paper](https://www.ijcai.org/Proceedings/2020/0599.pdf)]  [code] 
+  [[paper](https://www.ijcai.org/Proceedings/2020/0599.pdf)]  [code] [video]
    
   &nbsp;   
 
