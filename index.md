@@ -62,7 +62,9 @@ April, 2018 - October, 2018 | AAIS, Peking University.
 
 * Uncertainty-Aware Image Captioning    
   
-  Zhengcong Fei\*, Zekang Li\*, ...
+  Zhengcong Fei\*, Zekang Li\* 
+
+  IJCAI 2021 under review 
   
   [paper] [[code](https://github.com/feizc/UAIC)] 
   
