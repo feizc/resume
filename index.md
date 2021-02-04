@@ -25,62 +25,63 @@ September, 2015 - June, 2019 | Bachelor of Electronic information engineering, N
 
 ## Research Interest
 
-Vision and Language, Reinforcement Learning 
+Language and Vision, Reinforcement Learning 
 
 ## Experience 
 
+November,2020 - February, 2021 | Wechat AI, Tencent Inc. 
 July, 2020 - October, 2020 | AIEI, Sinovation Ventures.
 April, 2018 - October, 2018 | AAIS, Peking University.  
 
 ## Competitions 
 
-* Our team ([Zekang Li](https://zekangli.com/), Xiangru Tang, Xiaohao Xu, and Hui zheng) won the **first place** in the innovation track, Deecamp 2020, Sinovation Ventures. 
+* Our team ([Zekang Li](https://zekangli.com/), [Xiangru Tang](http://xiangrutang.github.io/), Xiaohao Xu, and Hui zheng) won the **first place** in the innovation track, Deecamp 2020, Sinovation Ventures. 
    This project is about sci-fic novel generation. 
 
-* Our team ([Zekang Li](https://zekangli.com/), Xiangru Tang, and Xiaohao Xu) won the **first place** in the 2020 artificial intelligence application innovation competition, Huawei Cloud. This project is about AI assisted writing. 
+* Our team ([Zekang Li](https://zekangli.com/), [Xiangru Tang](http://xiangrutang.github.io/), and Xiaohao Xu) won the **first place** in the 2020 artificial intelligence application innovation competition, Huawei Cloud. This project is about AI assisted writing. 
+
 
 ## Publications 
 
 
-* Make Conversion Fascinating: Incorporating Visual Expression into Open Dialogue 
-
-  Zhengcong Fei\*, Zekang Li\*, ...
-  
-  [paper] [[code](https://github.com/feizc/Dialogue-System)]
-
-   &nbsp;  
-
-
 * RICE: Reference-free Image Captioning Evaluation     
   
-  Zhengcong Fei\*, Zekang Li\*, ...
+  Zhengcong Fei\*, Zekang Li\*
   
   [paper] [[code](https://github.com/feizc/RICE)] 
   
   &nbsp;  
   
 
+
 * Uncertainty-Aware Image Captioning    
   
   Zhengcong Fei\*, Zekang Li\* 
-
-  IJCAI 2021 under review 
   
   [paper] [[code](https://github.com/feizc/UAIC)] 
   
   &nbsp;  
- 
+
 
 
 * Train or Not? A Competence-Aware Curriculum for image captioning 
   
   Zhengcong Fei 
   
-  CVPR 2021 under review 
-  
   [paper] [code] 
   
   &nbsp;  
+
+
+
+* We Want Vivid Conversations: Incorporating Internet Meme into Open-domain Dialogue 
+
+  Zhengcong Fei, Zekang Li, Jinchao Zhang, Yang Feng, Jie Zhou  
+  
+  [paper] [[code](https://github.com/feizc/Dialogue-System)]
+
+   &nbsp;  
+
 
 
 * Memory-Augumented Image Captioning   (**Oral**) 
@@ -227,13 +228,13 @@ April, 2018 - October, 2018 | AAIS, Peking University.
 
 ## Services
 
-Reviewer: **NeurIPS**2020; **CVPR**2021; **ICML**2021; **IJCAI**2021
+Reviewer: **ICCV**2021; **ICML**2021; **CVPR**2021; **IJCAI**2021; **NeurIPS**2020; 
 
 
 ---
 
 
-Last updated on Dec 20, 2020
+Last updated on Feb 4, 2021
 
 
 ---
