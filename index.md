@@ -35,10 +35,14 @@ April, 2018 - October, 2018 | AAIS, Peking University.
 
 ## Competitions 
 
+* Our team ([Zekang Li](https://zekangli.com/), [Xiangru Tang](http://xiangrutang.github.io/), Xiaohao Xu and adviser [Ming Zhou](https://scholar.google.com/citations?user=a0w5c0gAAAAJ&hl=zh-CN&oi=ao)) won the **first place** in the 6-th National Youth artificial intelligence innovation and entrepreneurship Conference, CAAI. 
+
+
 * Our team ([Zekang Li](https://zekangli.com/), [Xiangru Tang](http://xiangrutang.github.io/), Xiaohao Xu, and Hui zheng) won the **first place** in the innovation track, Deecamp 2020, Sinovation Ventures. 
    This project is about sci-fic novel generation. 
 
 * Our team ([Zekang Li](https://zekangli.com/), [Xiangru Tang](http://xiangrutang.github.io/), and Xiaohao Xu) won the **first place** in the 2020 artificial intelligence application innovation competition, Huawei Cloud. This project is about AI assisted writing. 
+
 
 
 ## Publications 
@@ -53,7 +57,6 @@ April, 2018 - October, 2018 | AAIS, Peking University.
   &nbsp;  
   
 
-
 * Uncertainty-Aware Image Captioning    
   
   Zhengcong Fei\*, Zekang Li\* 
@@ -61,7 +64,6 @@ April, 2018 - October, 2018 | AAIS, Peking University.
   [paper] [[code](https://github.com/feizc/UAIC)] 
   
   &nbsp;  
-
 
 
 * Train or Not? A Competence-Aware Curriculum for image captioning 
@@ -73,15 +75,31 @@ April, 2018 - October, 2018 | AAIS, Peking University.
   &nbsp;  
 
 
-
 * We Want Vivid Conversations: Incorporating Internet Meme into Open-domain Dialogue 
 
   Zhengcong Fei, Zekang Li, Jinchao Zhang, Yang Feng, Jie Zhou  
   
   [paper] [[code](https://github.com/feizc/Dialogue-System)]
 
-   &nbsp;  
+  &nbsp;  
 
+
+* Conversionsa Are not Flat: Modeling the Dynamic Information Flow between Dialogue Utterances  
+
+  Zekang Li, Jinchao Zhang, Zhengcong Fei, Yang Feng, Jie Zhou  
+  
+  [paper] [code]
+
+  &nbsp;  
+
+
+* Addressing Inquiries about History: An Efficient and Practical Framework for Evaluating Open-domain Chatbot Consistency   
+
+  Zekang Li, Jinchao Zhang, Zhengcong Fei, Yang Feng, Jie Zhou  
+  
+  [paper] [code]
+
+  &nbsp;  
 
 
 * Memory-Augumented Image Captioning   (**Oral**) 
@@ -234,7 +252,7 @@ Reviewer: **ICCV**2021; **ICML**2021; **CVPR**2021; **IJCAI**2021; **NeurIPS**20
 ---
 
 
-Last updated on Feb 4, 2021
+Last updated on Feb 6, 2021
 
 
 ---
