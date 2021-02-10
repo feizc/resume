@@ -75,32 +75,6 @@ April, 2018 - October, 2018 | AAIS, Peking University.
   &nbsp;  
 
 
-* We Want Vivid Conversations: Incorporating Internet Meme into Open-domain Dialogue 
-
-  Zhengcong Fei, Zekang Li, Jinchao Zhang, Yang Feng, Jie Zhou  
-  
-  [paper] [[code](https://github.com/feizc/Dialogue-System)]
-
-  &nbsp;  
-
-
-* Conversionsa Are not Flat: Modeling the Dynamic Information Flow between Dialogue Utterances  
-
-  Zekang Li, Jinchao Zhang, Zhengcong Fei, Yang Feng, Jie Zhou  
-  
-  [paper] [code]
-
-  &nbsp;  
-
-
-* Addressing Inquiries about History: An Efficient and Practical Framework for Evaluating Open-domain Chatbot Consistency   
-
-  Zekang Li, Jinchao Zhang, Zhengcong Fei, Yang Feng, Jie Zhou  
-  
-  [paper] [code]
-
-  &nbsp;  
-
 
 * Memory-Augumented Image Captioning   (**Oral**) 
 
