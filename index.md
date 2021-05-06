@@ -88,6 +88,17 @@ April, 2018 - October, 2018 | AAIS, Peking University.
   &nbsp;  
 
 
+* Semi-Autoregressive Image Captioning 
+  
+  Xu Yan, Zekang Li, Zhengcong Fei, Shuhui Wang, Qingming Huang, Qi Tian 
+
+  ACM MM under review 
+  
+  [paper] [code] 
+  
+  &nbsp;  
+
+
 * We Want Vivid Conversations: Incorporating Internet Meme into Open-domain Dialogue 
 
   Zhengcong Fei, Zekang Li, Jinchao Zhang, Yang Feng, Jie Zhou  
@@ -263,7 +274,7 @@ April, 2018 - October, 2018 | AAIS, Peking University.
 
 ## Services
 
-Reviewer: **NeurIPS**2020; **ICCV**2021; **ICML**2021; **CVPR**2021; **IJCAI**2021; **NeurIPS**2020; 
+Reviewer: **NeurIPS**2021; **ICCV**2021; **ICML**2021; **CVPR**2021; **IJCAI**2021; **NeurIPS**2020; 
 
 
 ---
