@@ -29,7 +29,7 @@ Language and Vision, Reinforcement Learning
 
 ## Experience 
 
-November,2020 - February, 2021 | Wechat AI, Tencent Inc. 
+November,2020 - June, 2021 | Wechat AI, Tencent Inc. 
 July, 2020 - October, 2020 | AIEI, Sinovation Ventures.
 April, 2018 - October, 2018 | AAIS, Peking University.  
 
@@ -57,23 +57,66 @@ April, 2018 - October, 2018 | AAIS, Peking University.
   &nbsp;  
   
 
+* Train or Not? A Competence-Aware Curriculum for image captioning 
+  
+  Zhengcong Fei, Zekang Li  
+  
+  [paper] [code] 
+  
+  &nbsp;  
+
+
 * Uncertainty-Aware Image Captioning    
   
-  Zhengcong Fei\*, Zekang Li\* 
+  Xu Yan, Zhengcong Fei, Zekang Li, Tianhai Feng, Shuhui Wang, Qingming Huang, Qi Tian 
+
+  ACM MM under review 
   
   [paper] [[code](https://github.com/feizc/UAIC)] 
   
   &nbsp;  
 
 
-* Train or Not? A Competence-Aware Curriculum for image captioning 
+* DVCFlow: Modeling Multimodal Information Flow Towards Human-like Dense Video Captioning 
   
-  Zhengcong Fei 
+  Xu Yan, Zekang Li, Zhengcong Fei, Shuhui Wang, Qingming Huang, Qi Tian 
+
+  ACM MM under review 
   
   [paper] [code] 
   
   &nbsp;  
 
+
+* We Want Vivid Conversations: Incorporating Internet Meme into Open-domain Dialogue 
+
+  Zhengcong Fei, Zekang Li, Jinchao Zhang, Yang Feng, Jie Zhou  
+  
+  [paper] [[code](https://github.com/feizc/Dialogue-System)]
+
+  &nbsp;  
+
+
+* Conversionsa Are not Flat: Modeling the Dynamic Information Flow between Dialogue Utterances  
+
+  Zekang Li, Jinchao Zhang, Zhengcong Fei, Yang Feng, Jie Zhou  
+  
+  Association for Computational Linguistics (***ACL***), Virtual, 2021
+
+  [paper] [code]
+
+  &nbsp;  
+
+
+* Addressing Inquiries about History: An Efficient and Practical Framework for Evaluating Open-domain Chatbot Consistency   
+
+  Zekang Li, Jinchao Zhang, Zhengcong Fei, Yang Feng, Jie Zhou  
+  
+  Association for Computational Linguistics (***ACL*** Findings), Virtual, 2021
+
+  [paper] [code]
+
+  &nbsp;  
 
 
 * Memory-Augumented Image Captioning   (**Oral**) 
@@ -82,7 +125,7 @@ April, 2018 - October, 2018 | AAIS, Peking University.
   
   Association for Advancement of Artificial Intelligence (**AAAI**), Virtual, 2021 
   
-  [paper] [code] [video]
+  [paper] [[code](https://github.com/feizc/MAIC)] [video]
   
   &nbsp;  
 
@@ -220,13 +263,13 @@ April, 2018 - October, 2018 | AAIS, Peking University.
 
 ## Services
 
-Reviewer: **ICCV**2021; **ICML**2021; **CVPR**2021; **IJCAI**2021; **NeurIPS**2020; 
+Reviewer: **NeurIPS**2020; **ICCV**2021; **ICML**2021; **CVPR**2021; **IJCAI**2021; **NeurIPS**2020; 
 
 
 ---
 
 
-Last updated on Feb 6, 2021
+Last updated on June 5, 2021
 
 
 ---
