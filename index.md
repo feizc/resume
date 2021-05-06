@@ -101,7 +101,7 @@ April, 2018 - October, 2018 | AAIS, Peking University.
 
   Zekang Li, Jinchao Zhang, Zhengcong Fei, Yang Feng, Jie Zhou  
   
-  Association for Computational Linguistics (***ACL***), Virtual, 2021
+  Association for Computational Linguistics (**ACL**), Virtual, 2021
 
   [paper] [code]
 
@@ -112,7 +112,7 @@ April, 2018 - October, 2018 | AAIS, Peking University.
 
   Zekang Li, Jinchao Zhang, Zhengcong Fei, Yang Feng, Jie Zhou  
   
-  Association for Computational Linguistics (***ACL*** Findings), Virtual, 2021
+  Association for Computational Linguistics (**ACL** Findings), Virtual, 2021
 
   [paper] [code]
 
