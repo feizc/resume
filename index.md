@@ -68,7 +68,7 @@ April, 2018 - October, 2018 | AAIS, Peking University.
 
 * Uncertainty-Aware Image Captioning    
   
-  Xu Yan, Zhengcong Fei, Zekang Li, Tianhai Feng, Shuhui Wang, Qingming Huang, Qi Tian 
+  Xu Yan\*, Zhengcong Fei\*, Zekang Li, Tianhai Feng, Shuhui Wang, Qingming Huang, Qi Tian 
 
   ACM MM under review 
   
@@ -90,7 +90,7 @@ April, 2018 - October, 2018 | AAIS, Peking University.
 
 * Semi-Autoregressive Image Captioning 
   
-  Xu Yan, Zekang Li, Zhengcong Fei, Shuhui Wang, Qingming Huang, Qi Tian 
+  Xu Yan\*, Zhengcong Fei\*, Zekang Li, Shuhui Wang, Qingming Huang, Qi Tian 
 
   ACM MM under review 
   
