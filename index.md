@@ -25,11 +25,12 @@ September, 2015 - June, 2019 | Bachelor of Electronic information engineering, N
 
 ## Research Interest
 
-Language and Vision, Reinforcement Learning 
+Language and Vision 
 
 ## Experience 
 
-November,2020 - June, 2021 | Wechat AI, Tencent Inc. 
+December, 2021 - Present | VIC, Meituan. 
+November, 2020 - November, 2021 | Wechat AI, Tencent Inc. 
 July, 2020 - October, 2020 | AIEI, Sinovation Ventures.
 April, 2018 - October, 2018 | AAIS, Peking University.  
 
@@ -66,45 +67,48 @@ April, 2018 - October, 2018 | AAIS, Peking University.
   &nbsp;  
 
 
-* Uncertainty-Aware Image Captioning    
-  
-  Xu Yan\*, Zhengcong Fei\*, Zekang Li, Tianhai Feng, Shuhui Wang, Qingming Huang, Qi Tian 
-
-  ACM MM under review 
-  
-  [paper] [[code](https://github.com/feizc/UAIC)] 
-  
-  &nbsp;  
-
-
 * DVCFlow: Modeling Multimodal Information Flow Towards Human-like Dense Video Captioning 
   
   Xu Yan, Zekang Li, Zhengcong Fei, Shuhui Wang, Qingming Huang, Qi Tian 
 
-  ACM MM under review 
+  CVPR 2022 under review 
   
   [paper] [code] 
   
   &nbsp;  
 
 
-* Semi-Autoregressive Image Captioning 
+* Towards Expressive Communication with Internet Memes: A New Multimodal Conversation Dataset and Benchmark 
+
+  Zhengcong Fei, Zekang Li, Jinchao Zhang, Yang Feng, Jie Zhou  
+
+  ACL 2022 under review 
+  
+  [paper] [[code](https://github.com/lizekang/DSTC10-MOD)]
+
+  &nbsp;  
+
+
+
+* Attention-Aligned Transformer for Image Captioning 
+  
+  Zhengcong Fei 
+
+  Association for Advancement of Artificial Intelligence (**AAAI**), Virtual, 2022 
+
+  [paper] [code]
+
+  &nbsp;   
+
+
+* Semi-Autoregressive Image Captioning  (**Oral**) 
   
   Xu Yan\*, Zhengcong Fei\*, Zekang Li, Shuhui Wang, Qingming Huang, Qi Tian 
 
-  ACM MM under review 
+  ACM International Conference on Multimedia (**ACM Multimedia**), ChengDu, China, 2021
   
-  [paper] [code] 
+  [paper] [[code](https://github.com/feizc/SAIC)] 
   
-  &nbsp;  
-
-
-* We Want Vivid Conversations: Incorporating Internet Meme into Open-domain Dialogue 
-
-  Zhengcong Fei, Zekang Li, Jinchao Zhang, Yang Feng, Jie Zhou  
-  
-  [paper] [[code](https://github.com/feizc/Dialogue-System)]
-
   &nbsp;  
 
 
@@ -114,7 +118,7 @@ April, 2018 - October, 2018 | AAIS, Peking University.
   
   Association for Computational Linguistics (**ACL**), Virtual, 2021
 
-  [paper] [code]
+  [paper] [[code](https://github.com/ictnlp/DialoFlow)]
 
   &nbsp;  
 
@@ -125,7 +129,7 @@ April, 2018 - October, 2018 | AAIS, Peking University.
   
   Association for Computational Linguistics (**ACL** Findings), Virtual, 2021
 
-  [paper] [code]
+  [paper] [[code](https://github.com/ictnlp/AIH)]
 
   &nbsp;  
 
@@ -274,13 +278,13 @@ April, 2018 - October, 2018 | AAIS, Peking University.
 
 ## Services
 
-Reviewer: **NeurIPS**2021; **ICCV**2021; **ICML**2021; **CVPR**2021; **IJCAI**2021; **NeurIPS**2020; 
+Reviewer: **CVPR**2022; **ICLR**2021; **NeurIPS**2021; **ICCV**2021; **ICML**2021; **CVPR**2021; **IJCAI**2021; **NeurIPS**2020; 
 
 
 ---
 
 
-Last updated on June 5, 2021
+Last updated on December 5, 2021
 
 
 ---
