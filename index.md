@@ -49,15 +49,6 @@ April, 2018 - October, 2018 | AAIS, Peking University.
 ## Publications 
 
 
-* RICE: Reference-free Image Captioning Evaluation     
-  
-  Zhengcong Fei\*, Zekang Li\*
-  
-  [paper] [[code](https://github.com/feizc/RICE)] 
-  
-  &nbsp;  
-  
-
 * Train or Not? A Competence-Aware Curriculum for image captioning 
   
   Zhengcong Fei, Zekang Li  
@@ -67,9 +58,9 @@ April, 2018 - October, 2018 | AAIS, Peking University.
   &nbsp;  
 
 
-* DVCFlow: Modeling Multimodal Information Flow Towards Human-like Dense Video Captioning 
+* DVCFlow: Modeling Information Flow Towards Human-like Video Captioning 
   
-  Xu Yan, Zekang Li, Zhengcong Fei, Shuhui Wang, Qingming Huang, Qi Tian 
+  Xu Yan, Zhengcong Fei, Shuhui Wang, Qingming Huang, Qi Tian 
 
   CVPR 2022 under review 
   
