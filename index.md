@@ -36,10 +36,12 @@ April, 2018 - October, 2018 | AAIS, Peking University.
 
 ## Competitions 
 
+* Our team ([Zekang Li](https://zekangli.com/), Jinchao Zhang, Yang Feng and Jie Zhou) hold the [DSTC10](https://dstc10.dstc.community/tracks) Track1: Meme incorporated Open-domain Dialogue. 
+
 * Our team ([Zekang Li](https://zekangli.com/), [Xiangru Tang](http://xiangrutang.github.io/), Xiaohao Xu and adviser [Ming Zhou](https://scholar.google.com/citations?user=a0w5c0gAAAAJ&hl=zh-CN&oi=ao)) won the **first place** in the 6-th National Youth artificial intelligence innovation and entrepreneurship Conference, CAAI. 
 
 
-* Our team ([Zekang Li](https://zekangli.com/), [Xiangru Tang](http://xiangrutang.github.io/), Xiaohao Xu, and Hui zheng) won the **first place** in the innovation track, Deecamp 2020, Sinovation Ventures. 
+* Our team ([Zekang Li](https://zekangli.com/), [Xiangru Tang](http://xiangrutang.github.io/), Xiaohao Xu, and Hui Zheng) won the **first place** in the innovation track, Deecamp 2020, Sinovation Ventures. 
    This project is about sci-fic novel generation. 
 
 * Our team ([Zekang Li](https://zekangli.com/), [Xiangru Tang](http://xiangrutang.github.io/), and Xiaohao Xu) won the **first place** in the 2020 artificial intelligence application innovation competition, Huawei Cloud. This project is about AI assisted writing. 
