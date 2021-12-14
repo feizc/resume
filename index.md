@@ -29,7 +29,7 @@ Language and Vision
 
 ## Experience 
 
-December, 2021 - Present | VIC, Meituan. 
+December, 2021 - Present | Vision Intelligence Center, Meituan. 
 November, 2020 - November, 2021 | Wechat AI, Tencent Inc. 
 July, 2020 - October, 2020 | AIEI, Sinovation Ventures.
 April, 2018 - October, 2018 | AAIS, Peking University.  
