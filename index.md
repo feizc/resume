@@ -77,7 +77,7 @@ April, 2018 - October, 2018 | AAIS, Peking University.
 
   ACL 2022 under review 
   
-  [paper] [[code](https://github.com/lizekang/DSTC10-MOD)]
+  [paper] [[code](https://github.com/lizekang/DSTC10-MOD)] [[web](https://openai.weixin.qq.com/dstc/DescriptionEN)]
 
   &nbsp;  
 
