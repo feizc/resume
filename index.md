@@ -51,13 +51,12 @@ April, 2018 - October, 2018 | AAIS, Peking University.
 ## Publications 
 
 
-* Train or Not? A Competence-Aware Curriculum for image captioning 
+* ClipVAE: Variational Transformer Networks for Diverse Image Captioning 
   
-  Zhengcong Fei, Zekang Li  
+  Zhengcong Fei, Junshi Huang, Xiaoming Wei 
   
-  [paper] [code] 
-  
-  &nbsp;  
+  [paper] [[code](https://github.com/feizc/Div-Cap)]
+
 
 
 * DVCFlow: Modeling Information Flow Towards Human-like Video Captioning 
@@ -277,7 +276,7 @@ Reviewer: **CVPR**2022; **ICLR**2021; **NeurIPS**2021; **ICCV**2021; **ICML**202
 ---
 
 
-Last updated on December 5, 2021
+Last updated on Jan 12, 2022
 
 
 ---
