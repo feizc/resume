@@ -53,10 +53,11 @@ April, 2018 - October, 2018 | AAIS, Peking University.
 
 * ClipVAE: Variational Transformer Networks for Diverse Image Captioning 
   
-  Zhengcong Fei, Junshi Huang, Xiaoming Wei 
+  Zhengcong Fei, Junshi Huang, Xiaoming Wei  
   
-  [paper] [[code](https://github.com/feizc/Div-Cap)]
-
+  [paper] [[code](https://github.com/feizc/Div-Cap)] 
+    
+  &nbsp;  
 
 
 * DVCFlow: Modeling Information Flow Towards Human-like Video Captioning 
