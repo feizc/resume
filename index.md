@@ -51,33 +51,45 @@ April, 2018 - October, 2018 | AAIS, Peking University.
 ## Publications 
 
 
-* ClipVAE: Variational Transformer Networks for Diverse Image Captioning 
+* Ensemble Parameter Distillation  
   
   Zhengcong Fei, Junshi Huang, Xiaoming Wei  
   
-  [paper] [[code](https://github.com/feizc/Div-Cap)] 
+  [paper] [[code](https://github.com/feizc/EPD)] 
     
   &nbsp;  
 
-
-* DVCFlow: Modeling Information Flow Towards Human-like Video Captioning 
-  
-  Xu Yan, Zhengcong Fei, Shuhui Wang, Qingming Huang, Qi Tian 
-
-  CVPR 2022 under review 
-  
-  [paper] [code] 
-  
-  &nbsp;  
 
 
 * Towards Expressive Communication with Internet Memes: A New Multimodal Conversation Dataset and Benchmark 
 
   Zhengcong Fei, Zekang Li, Jinchao Zhang, Yang Feng, Jie Zhou  
 
-  ACL 2022 under review 
-  
   [paper] [[code](https://github.com/lizekang/DSTC10-MOD)] [[web](https://openai.weixin.qq.com/dstc/DescriptionEN)]
+
+  &nbsp;  
+
+
+
+* DeeCap: Dynamic Early Exiting for Efficient Image Captioning  
+  
+  Zhengcong Fei, Xu Yan, Shuhui Wang, Qi Tian 
+
+  IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), New Orleans, Louisiana, 2022 
+
+  [paper] [code]
+
+  &nbsp;  
+
+
+
+* Selecting Stickers in Open-Domain Dialogue through Multitask Learning 
+
+  Zhexin Zhang, Yeshuang Zhu, Zhengcong Fei, Jinchao Zhang, Jie Zhou  
+  
+  Association for Computational Linguistics (**ACL** Findings), Virtual, 2022 
+  
+  [paper] [code]
 
   &nbsp;  
 
@@ -277,7 +289,7 @@ Reviewer: **CVPR**2022; **ICLR**2021; **NeurIPS**2021; **ICCV**2021; **ICML**202
 ---
 
 
-Last updated on Jan 12, 2022
+Last updated on March 3, 2022
 
 
 ---
