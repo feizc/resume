@@ -50,6 +50,7 @@ April, 2018 - October, 2018 | AAIS, Peking University.
 
 ## Publications 
 
+### 2022 
 
 * **Zhengcong Fei**, Junshi Huang, Xiaoming Wei. Ensemble Parameter Distillation. Under work. [paper] [[code](https://github.com/feizc/EPD)] 
 
@@ -66,6 +67,8 @@ April, 2018 - October, 2018 | AAIS, Peking University.
 * **Zhengcong Fei**. Attention-Aligned Transformer for Image Captioning. In *AAAI2022*. [paper] [code]
 
 
+### 2021
+
 * Xu Yan\*, **Zhengcong Fei**\*, Zekang Li, Shuhui Wang, Qingming Huang, Qi Tian. Semi-Autoregressive Image Captioning. In *ACM MM2021*. [paper] [[code](https://github.com/feizc/SAIC)] 
 
 
@@ -81,7 +84,9 @@ April, 2018 - October, 2018 | AAIS, Peking University.
 
 
 * **Zhengcong Fei**. Retrieve and Revise: Improving Peptide Identification with Similar Mass Spectra. In *AAAI2021*. [paper] [code] [video]
- 
+
+### 2020
+
 
 * **Zhengcong Fei**. Iterative Back Modification for Faster Image Captioning. In *ACM MM2020*. [[paper](https://dl.acm.org/doi/abs/10.1145/3394171.3413901)]  [code]  [[video](https://dl.acm.org/doi/abs/10.1145/3394171.3413901)]
  
