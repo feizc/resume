@@ -51,59 +51,59 @@ April, 2018 - October, 2018 | AAIS, Peking University.
 ## Publications 
 
 
-* **Zhengcong Fei**, Junshi Huang, Xiaoming Wei. Ensemble Parameter Distillation. [paper] [[code](https://github.com/feizc/EPD)] 
+* **Zhengcong Fei**, Junshi Huang, Xiaoming Wei. Ensemble Parameter Distillation. Under work. [paper] [[code](https://github.com/feizc/EPD)] 
 
 * **Zhengcong Fei**, Zekang Li, Jinchao Zhang, Yang Feng, Jie Zhou. Towards Expressive Communication with Internet Memes: A New Multimodal Conversation Dataset and Benchmark. In DSTC10 track organizer. [paper] [[code](https://github.com/lizekang/DSTC10-MOD)] [[web](https://openai.weixin.qq.com/dstc/DescriptionEN)]
 
 
-* **Zhengcong Fei**, Xu Yan, Shuhui Wang, Qi Tian. DeeCap: Dynamic Early Exiting for Efficient Image Captioning. In **CVPR2022**. [paper] [code]
+* **Zhengcong Fei**, Xu Yan, Shuhui Wang, Qi Tian. DeeCap: Dynamic Early Exiting for Efficient Image Captioning. In *CVPR2022*. [paper] [code]
   
 
 
-* Zhexin Zhang, Yeshuang Zhu, **Zhengcong Fei**, Jinchao Zhang, Jie Zhou. Selecting Stickers in Open-Domain Dialogue through Multitask Learning. In **ACL2022** Findings. [paper] [code]
+* Zhexin Zhang, Yeshuang Zhu, **Zhengcong Fei**, Jinchao Zhang, Jie Zhou. Selecting Stickers in Open-Domain Dialogue through Multitask Learning. In *ACL2022* Findings. [paper] [code]
 
 
-* **Zhengcong Fei**. Attention-Aligned Transformer for Image Captioning. In **AAAI2022**. [paper] [code]
+* **Zhengcong Fei**. Attention-Aligned Transformer for Image Captioning. In *AAAI2022*. [paper] [code]
 
 
-* Xu Yan\*, **Zhengcong Fei**\*, Zekang Li, Shuhui Wang, Qingming Huang, Qi Tian. Semi-Autoregressive Image Captioning. In **ACM MM2021**. [paper] [[code](https://github.com/feizc/SAIC)] 
+* Xu Yan\*, **Zhengcong Fei**\*, Zekang Li, Shuhui Wang, Qingming Huang, Qi Tian. Semi-Autoregressive Image Captioning. In *ACM MM2021*. [paper] [[code](https://github.com/feizc/SAIC)] 
 
 
-* Zekang Li, Jinchao Zhang, **Zhengcong Fei**, Yang Feng, Jie Zhou. Conversionsa Are not Flat: Modeling the Dynamic Information Flow between Dialogue Utterances. In **ACL2020**. [paper] [[code](https://github.com/ictnlp/DialoFlow)]
+* Zekang Li, Jinchao Zhang, **Zhengcong Fei**, Yang Feng, Jie Zhou. Conversionsa Are not Flat: Modeling the Dynamic Information Flow between Dialogue Utterances. In *ACL2020*. [paper] [[code](https://github.com/ictnlp/DialoFlow)]
 
 
-* Zekang Li, Jinchao Zhang, **Zhengcong Fei**, Yang Feng, Jie Zhou. Addressing Inquiries about History: An Efficient and Practical Framework for Evaluating Open-domain Chatbot Consistency. In **ACL2021** Findings. [paper] [[code](https://github.com/ictnlp/AIH)]
+* Zekang Li, Jinchao Zhang, **Zhengcong Fei**, Yang Feng, Jie Zhou. Addressing Inquiries about History: An Efficient and Practical Framework for Evaluating Open-domain Chatbot Consistency. In *ACL2021* Findings. [paper] [[code](https://github.com/ictnlp/AIH)]
 
-* **Zhengcong Fei**. Memory-Augumented Image Captioning. In **AAAI2021**. [paper] [[code](https://github.com/feizc/MAIC)] [video] 
-
-
-* **Zhengcong Fei**. Partially Non-Autoregressive Image Captioning. In **AAAI2021**. [paper] [[code](https://github.com/feizc/PNAIC/tree/master)] [video]
+* **Zhengcong Fei**. Memory-Augumented Image Captioning. In *AAAI2021*. [paper] [[code](https://github.com/feizc/MAIC)] [video] 
 
 
-* **Zhengcong Fei**. Retrieve and Revise: Improving Peptide Identification with Similar Mass Spectra. In **AAAI2021**. [paper] [code] [video]
+* **Zhengcong Fei**. Partially Non-Autoregressive Image Captioning. In *AAAI2021*. [paper] [[code](https://github.com/feizc/PNAIC/tree/master)] [video]
+
+
+* **Zhengcong Fei**. Retrieve and Revise: Improving Peptide Identification with Similar Mass Spectra. In *AAAI2021*. [paper] [code] [video]
  
 
-* **Zhengcong Fei**. Iterative Back Modification for Faster Image Captioning. In **ACM MM2020**. [[paper](https://dl.acm.org/doi/abs/10.1145/3394171.3413901)]  [code]  [[video](https://dl.acm.org/doi/abs/10.1145/3394171.3413901)]
+* **Zhengcong Fei**. Iterative Back Modification for Faster Image Captioning. In *ACM MM2020*. [[paper](https://dl.acm.org/doi/abs/10.1145/3394171.3413901)]  [code]  [[video](https://dl.acm.org/doi/abs/10.1145/3394171.3413901)]
  
   
-* **Zhengcong Fei**. Improving Tandem Mass Spectra Analysis with Hierarchical Learning. In **IJCAI2020**. [[paper](https://www.ijcai.org/Proceedings/2020/0599.pdf)]  [code] [video]
+* **Zhengcong Fei**. Improving Tandem Mass Spectra Analysis with Hierarchical Learning. In *IJCAI2020*. [[paper](https://www.ijcai.org/Proceedings/2020/0599.pdf)]  [code] [video]
  
 
-* **Zhengcong Fei**. Actor-Critic Sequence Generation for Relative Difference Captioning. In **ICMR2020**.  [[paper](https://dl.acm.org/doi/pdf/10.1145/3372278.3390679)]  [code] [[video](https://www.loom.com/share/a4ec9e4b53fd47209717e325bd2ed80f)] 
+* **Zhengcong Fei**. Actor-Critic Sequence Generation for Relative Difference Captioning. In *ICMR2020*.  [[paper](https://dl.acm.org/doi/pdf/10.1145/3372278.3390679)]  [code] [[video](https://www.loom.com/share/a4ec9e4b53fd47209717e325bd2ed80f)] 
 
-* **Zhengcong Fei**. Novel Peptide Sequencing with Deep Reinforcement Learning. In **ICME2020**. [[paper](https://ieeexplore.ieee.org/document/9102827)]  [code] 
+* **Zhengcong Fei**. Novel Peptide Sequencing with Deep Reinforcement Learning. In *ICME2020*. [[paper](https://ieeexplore.ieee.org/document/9102827)]  [code] 
 
   
-* **Zhengcong Fei**. Fast Image Caption Generation with Position Alignment. In **AAAI2020** Workshop. [[paper](https://arxiv.org/abs/1912.06365)]  [code]  [[PPT](https://aiotworkshop.github.io/2020/program.html)]  
+* **Zhengcong Fei**. Fast Image Caption Generation with Position Alignment. In *AAAI2020* Workshop. [[paper](https://arxiv.org/abs/1912.06365)]  [code]  [[PPT](https://aiotworkshop.github.io/2020/program.html)]  
    
 
-* **Zhengcong Fei**. Better Understanding Hierarchical Visual Relationship for Image Caption. In **NeurIPS2019** Workshop. [[paper](https://arxiv.org/abs/1912.01881)]  [[code](https://github.com/feizc/GNN-Pytorch)]  
+* **Zhengcong Fei**. Better Understanding Hierarchical Visual Relationship for Image Caption. In *NeurIPS2019* Workshop. [[paper](https://arxiv.org/abs/1912.01881)]  [[code](https://github.com/feizc/GNN-Pytorch)]  
   
 
-* Wen-Feng Zeng\*, Ching Tarn\*, **Zhengcong Fei**, Si-Min He. pDeep3: Towards More Accurate Spectrum Prediction with Fast Few-Shot Learning. In **Analytical Chemistry**. [[paper](https://www.biorxiv.org/content/10.1101/2020.09.13.295105v1)]  [[code](https://github.com/pFindStudio/pDeep3)]  
+* Wen-Feng Zeng\*, Ching Tarn\*, **Zhengcong Fei**, Si-Min He. pDeep3: Towards More Accurate Spectrum Prediction with Fast Few-Shot Learning. In *Analytical Chemistry*. [[paper](https://www.biorxiv.org/content/10.1101/2020.09.13.295105v1)]  [[code](https://github.com/pFindStudio/pDeep3)]  
 
 
-* **Zhengcong Fei**, Kaifei Wang, Hao Chi, GameTag: A New Sequence Tag Generation Algorithm Based on Cooperative Game Theory. In **Proteomics**. [[paper](https://onlinelibrary.wiley.com/doi/full/10.1002/pmic.202000021?af=R)]  [[code](https://github.com/feizc/GameTag)] 
+* **Zhengcong Fei**, Kaifei Wang, Hao Chi, GameTag: A New Sequence Tag Generation Algorithm Based on Cooperative Game Theory. In *Proteomics*. [[paper](https://onlinelibrary.wiley.com/doi/full/10.1002/pmic.202000021?af=R)]  [[code](https://github.com/feizc/GameTag)] 
 
 
 
