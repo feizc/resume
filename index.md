@@ -232,25 +232,11 @@ April, 2018 - October, 2018 | AAIS, Peking University.
 &nbsp;  
 
 
-* pDeep3: Towards More Accurate Spectrum Prediction with Fast Few-Shot Learning   
+* Wen-Feng Zeng\*, Ching Tarn\*, Zhengcong Fei, Si-Min He. pDeep3: Towards More Accurate Spectrum Prediction with Fast Few-Shot Learning. **Analytical Chemistry**. [[paper](https://www.biorxiv.org/content/10.1101/2020.09.13.295105v1)]  [[code](https://github.com/pFindStudio/pDeep3)]  
 
-  Wen-Feng Zeng\*, Ching Tarn\*, Zhengcong Fei, Si-Min He  
 
-  **Analytical Chemistry** under review  
- 
-  [[paper](https://www.biorxiv.org/content/10.1101/2020.09.13.295105v1)]  [[code](https://github.com/pFindStudio/pDeep3)]  
-  
-&nbsp;  
+* Zhengcong Fei, Kaifei Wang, Hao Chi, GameTag: A New Sequence Tag Generation Algorithm Based on Cooperative Game Theory. In **Proteomics**. [[paper](https://onlinelibrary.wiley.com/doi/full/10.1002/pmic.202000021?af=R)]  [[code](https://github.com/feizc/GameTag)] 
 
-* GameTag: A New Sequence Tag Generation Algorithm Based on Cooperative Game Theory 
-
-  Zhengcong Fei, Kaifei Wang, Hao Chi  
-  
-  **Proteomics** 
-  
-  [[paper](https://onlinelibrary.wiley.com/doi/full/10.1002/pmic.202000021?af=R)]  [[code](https://github.com/feizc/GameTag)] 
-
-&nbsp;  
 
 
 
