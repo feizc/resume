@@ -85,7 +85,7 @@ April, 2018 - October, 2018 | AAIS, Peking University.
 
 * **Zhengcong Fei**. Retrieve and Revise: Improving Peptide Identification with Similar Mass Spectra. In *AAAI2021*. [paper] [code] [video]
 
-### 2020
+### ~2020
 
 
 * **Zhengcong Fei**. Iterative Back Modification for Faster Image Captioning. In *ACM MM2020*. [[paper](https://dl.acm.org/doi/abs/10.1145/3394171.3413901)]  [code]  [[video](https://dl.acm.org/doi/abs/10.1145/3394171.3413901)]
