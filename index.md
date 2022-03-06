@@ -68,21 +68,21 @@ April, 2018 - October, 2018 | AAIS, Peking University.
 
 ### 2021
 
-* Xu Yan\*, **Zhengcong Fei**\*, Zekang Li, Shuhui Wang, Qingming Huang, Qi Tian. Semi-Autoregressive Image Captioning. In *ACM MM2021*. [paper] [[code](https://github.com/feizc/SAIC)] 
+* Xu Yan\*, **Zhengcong Fei**\*, Zekang Li, Shuhui Wang, Qingming Huang, Qi Tian. Semi-Autoregressive Image Captioning. In *ACM MM2021*. [[paper](https://dl.acm.org/doi/10.1145/3474085.3475179)] [[code](https://github.com/feizc/SAIC)] 
 
 
-* Zekang Li, Jinchao Zhang, **Zhengcong Fei**, Yang Feng, Jie Zhou. Conversionsa Are not Flat: Modeling the Dynamic Information Flow between Dialogue Utterances. In *ACL2020*. [paper] [[code](https://github.com/ictnlp/DialoFlow)]
+* Zekang Li, Jinchao Zhang, **Zhengcong Fei**, Yang Feng, Jie Zhou. Conversionsa Are not Flat: Modeling the Dynamic Information Flow between Dialogue Utterances. In *ACL2020*. [[paper](https://aclanthology.org/2021.acl-long.11.pdf)] [[code](https://github.com/ictnlp/DialoFlow)]
 
 
-* Zekang Li, Jinchao Zhang, **Zhengcong Fei**, Yang Feng, Jie Zhou. Addressing Inquiries about History: An Efficient and Practical Framework for Evaluating Open-domain Chatbot Consistency. In *ACL2021* Findings. [paper] [[code](https://github.com/ictnlp/AIH)]
+* Zekang Li, Jinchao Zhang, **Zhengcong Fei**, Yang Feng, Jie Zhou. Addressing Inquiries about History: An Efficient and Practical Framework for Evaluating Open-domain Chatbot Consistency. In *ACL2021* Findings. [[paper](https://aclanthology.org/2021.findings-acl.91.pdf)] [[code](https://github.com/ictnlp/AIH)]
 
-* **Zhengcong Fei**. Memory-Augumented Image Captioning. In *AAAI2021*. [paper] [[code](https://github.com/feizc/MAIC)] [video] 
-
-
-* **Zhengcong Fei**. Partially Non-Autoregressive Image Captioning. In *AAAI2021*. [paper] [[code](https://github.com/feizc/PNAIC/tree/master)] [video]
+* **Zhengcong Fei**. Memory-Augumented Image Captioning. In *AAAI2021*. [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/16220)] [[code](https://github.com/feizc/MAIC)] [video] 
 
 
-* **Zhengcong Fei**. Retrieve and Revise: Improving Peptide Identification with Similar Mass Spectra. In *AAAI2021*. [paper] [code] [video]
+* **Zhengcong Fei**. Partially Non-Autoregressive Image Captioning. In *AAAI2021*. [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/16219)] [[code](https://github.com/feizc/PNAIC/tree/master)] [video]
+
+
+* **Zhengcong Fei**. Retrieve and Revise: Improving Peptide Identification with Similar Mass Spectra. In *AAAI2021*. [[paper](https://www.aaai.org/AAAI21Papers/AISI-3105.FeiZ.pdf)] [code] [video]
 
 ### ~2020
 
