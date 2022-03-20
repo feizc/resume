@@ -57,7 +57,7 @@ April, 2018 - October, 2018 | AAIS, Peking University.
 * **Zhengcong Fei**, Zekang Li, Jinchao Zhang, Yang Feng, Jie Zhou. Towards Expressive Communication with Internet Memes: A New Multimodal Conversation Dataset and Benchmark. In DSTC10 track1 organizer. [paper] [[code](https://github.com/lizekang/DSTC10-MOD)] [[web](https://openai.weixin.qq.com/dstc/DescriptionEN)]
 
 
-* **Zhengcong Fei**, Xu Yan, Shuhui Wang, Qi Tian. DeeCap: Dynamic Early Exiting for Efficient Image Captioning. In *CVPR2022*. [paper] [code]
+* **Zhengcong Fei**, Xu Yan, Shuhui Wang, Qi Tian. DeeCap: Dynamic Early Exiting for Efficient Image Captioning. In *CVPR2022*. [paper] [[code](https://github.com/feizc/DeeCap)]
   
 
 * Zhexin Zhang, Yeshuang Zhu, **Zhengcong Fei**, Jinchao Zhang, Jie Zhou. Selecting Stickers in Open-Domain Dialogue through Multitask Learning. In *ACL2022* Findings. [paper] [code]
