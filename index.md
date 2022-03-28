@@ -65,7 +65,7 @@ April, 2018 - October, 2018 | AAIS, Peking University.
 * **Zhengcong Fei**. Attention-Aligned Transformer for Image Captioning. In *AAAI2022*. [paper] [code] 
 
 
-* **Zhengcong Fei**, Zekang Li, Jinchao Zhang, Yang Feng, Jie Zhou. Towards Expressive Communication with Internet Memes: A New Multimodal Conversation Dataset and Benchmark. In DSTC10 track1 organizer. [paper] [[code](https://github.com/lizekang/DSTC10-MOD)] [[web](https://openai.weixin.qq.com/dstc/DescriptionEN)] 
+* **Zhengcong Fei**, Zekang Li, Jinchao Zhang, Yang Feng, Jie Zhou. Towards Expressive Communication with Internet Memes: A New Multimodal Conversation Dataset and Benchmark. In DSTC10 track1 organizer. [[paper](https://arxiv.org/abs/2109.01839)] [[code](https://github.com/lizekang/DSTC10-MOD)] [[web](https://openai.weixin.qq.com/dstc/DescriptionEN)] 
 
 
 
