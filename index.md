@@ -90,18 +90,18 @@ April, 2018 - October, 2018 | AAIS, Peking University.
 ### ~2020
 
 
-* **Zhengcong Fei**. Iterative Back Modification for Faster Image Captioning. In *ACM MM2020*. [[paper](https://dl.acm.org/doi/abs/10.1145/3394171.3413901)]  [code]  [[video](https://dl.acm.org/doi/abs/10.1145/3394171.3413901)]
+* **Zhengcong Fei**. Iterative Back Modification for Faster Image Captioning. In *ACM MM2020*. [[paper](https://dl.acm.org/doi/abs/10.1145/3394171.3413901)]  [[code](https://github.com/feizc/NAIC)]  [[video](https://dl.acm.org/doi/abs/10.1145/3394171.3413901)]
  
   
-* **Zhengcong Fei**. Improving Tandem Mass Spectra Analysis with Hierarchical Learning. In *IJCAI2020*. [[paper](https://www.ijcai.org/Proceedings/2020/0599.pdf)]  [code] [video]
+* **Zhengcong Fei**. Improving Tandem Mass Spectra Analysis with Hierarchical Learning. In *IJCAI2020*. [[paper](https://www.ijcai.org/Proceedings/2020/0599.pdf)]  [[video](https://www.youtube.com/watch?v=j2e2xiXVla4)]
  
 
-* **Zhengcong Fei**. Actor-Critic Sequence Generation for Relative Difference Captioning. In *ICMR2020*.  [[paper](https://dl.acm.org/doi/pdf/10.1145/3372278.3390679)]  [code] [[video](https://www.loom.com/share/a4ec9e4b53fd47209717e325bd2ed80f)] 
+* **Zhengcong Fei**. Actor-Critic Sequence Generation for Relative Difference Captioning. In *ICMR2020*.  [[paper](https://dl.acm.org/doi/pdf/10.1145/3372278.3390679)]   [[video](https://www.loom.com/share/a4ec9e4b53fd47209717e325bd2ed80f)] 
 
-* **Zhengcong Fei**. Novel Peptide Sequencing with Deep Reinforcement Learning. In *ICME2020*. [[paper](https://ieeexplore.ieee.org/document/9102827)]  [code] 
+* **Zhengcong Fei**. Novel Peptide Sequencing with Deep Reinforcement Learning. In *ICME2020*. [[paper](https://ieeexplore.ieee.org/document/9102827)] 
 
   
-* **Zhengcong Fei**. Fast Image Caption Generation with Position Alignment. In *AAAI2020* Workshop. [[paper](https://arxiv.org/abs/1912.06365)]  [code]  [[PPT](https://aiotworkshop.github.io/2020/program.html)]  
+* **Zhengcong Fei**. Fast Image Caption Generation with Position Alignment. In *AAAI2020* Workshop. [[paper](https://arxiv.org/abs/1912.06365)]  [[code](https://github.com/feizc/NAIC)]  [[PPT](https://aiotworkshop.github.io/2020/program.html)]  
    
 
 * **Zhengcong Fei**. Better Understanding Hierarchical Visual Relationship for Image Caption. In *NeurIPS2019* Workshop. [[paper](https://arxiv.org/abs/1912.01881)]  [[code](https://github.com/feizc/GNN-Pytorch)]  
