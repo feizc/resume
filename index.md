@@ -79,13 +79,13 @@ April, 2018 - October, 2018 | AAIS, Peking University.
 
 * Zekang Li, Jinchao Zhang, **Zhengcong Fei**, Yang Feng, Jie Zhou. Addressing Inquiries about History: An Efficient and Practical Framework for Evaluating Open-domain Chatbot Consistency. In *ACL2021* Findings. [[paper](https://aclanthology.org/2021.findings-acl.91.pdf)] [[code](https://github.com/ictnlp/AIH)]
 
-* **Zhengcong Fei**. Memory-Augumented Image Captioning. In *AAAI2021*. [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/16220)] [[code](https://github.com/feizc/MAIC)] [video] 
+* **Zhengcong Fei**. Memory-Augumented Image Captioning. In *AAAI2021*. [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/16220)] [[code](https://github.com/feizc/MAIC)] [[video](https://papertalk.org/papertalks/31126)] 
 
 
-* **Zhengcong Fei**. Partially Non-Autoregressive Image Captioning. In *AAAI2021*. [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/16219)] [[code](https://github.com/feizc/PNAIC/tree/master)] [video]
+* **Zhengcong Fei**. Partially Non-Autoregressive Image Captioning. In *AAAI2021*. [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/16219)] [[code](https://github.com/feizc/PNAIC/tree/master)] [[video](https://papertalk.org/papertalks/31127)]
 
 
-* **Zhengcong Fei**. Retrieve and Revise: Improving Peptide Identification with Similar Mass Spectra. In *AAAI2021*. [[paper](https://www.aaai.org/AAAI21Papers/AISI-3105.FeiZ.pdf)] [code] [video]
+* **Zhengcong Fei**. Retrieve and Revise: Improving Peptide Identification with Similar Mass Spectra. In *AAAI2021*. [[paper](https://www.aaai.org/AAAI21Papers/AISI-3105.FeiZ.pdf)] [code] [[video](https://papertalk.org/papertalks/29612)]
 
 ### ~2020
 
