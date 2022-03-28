@@ -85,7 +85,7 @@ April, 2018 - October, 2018 | AAIS, Peking University.
 * **Zhengcong Fei**. Partially Non-Autoregressive Image Captioning. In *AAAI2021*. [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/16219)] [[code](https://github.com/feizc/PNAIC/tree/master)] [[video](https://papertalk.org/papertalks/31127)]
 
 
-* **Zhengcong Fei**. Retrieve and Revise: Improving Peptide Identification with Similar Mass Spectra. In *AAAI2021*. [[paper](https://www.aaai.org/AAAI21Papers/AISI-3105.FeiZ.pdf)] [code] [[video](https://papertalk.org/papertalks/29612)]
+* **Zhengcong Fei**. Retrieve and Revise: Improving Peptide Identification with Similar Mass Spectra. In *AAAI2021*. [[paper](https://www.aaai.org/AAAI21Papers/AISI-3105.FeiZ.pdf)]  [[video](https://papertalk.org/papertalks/29612)]
 
 ### ~2020
 
