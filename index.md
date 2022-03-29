@@ -71,7 +71,7 @@ April, 2018 - October, 2018 | AAIS, Peking University.
 
 ### 2021
 
-* Xu Yan\*, **Zhengcong Fei**\*, Zekang Li, Shuhui Wang, Qingming Huang, Qi Tian. Semi-Autoregressive Image Captioning. In *ACM MM2021*. [[paper](https://dl.acm.org/doi/10.1145/3474085.3475179)] [[code](https://github.com/feizc/SAIC)] 
+* Xu Yan\*, **Zhengcong Fei**\*, Zekang Li, Shuhui Wang, Qingming Huang, Qi Tian. Semi-Autoregressive Image Captioning. In *ACM MM2021*. [[paper](https://dl.acm.org/doi/10.1145/3474085.3475179)] [[code](https://github.com/feizc/SAIC)]  [[video](https://dl.acm.org/doi/10.1145/3474085.3475179)]
 
 
 * Zekang Li, Jinchao Zhang, **Zhengcong Fei**, Yang Feng, Jie Zhou. Conversionsa Are not Flat: Modeling the Dynamic Information Flow between Dialogue Utterances. In *ACL2020*. [[paper](https://aclanthology.org/2021.acl-long.11.pdf)] [[code](https://github.com/ictnlp/DialoFlow)]
@@ -150,7 +150,7 @@ Reviewer: **CVPR**2022; **ICLR**2021; **NeurIPS**2021; **ICCV**2021; **ICML**202
 ---
 
 
-Last updated on March 5, 2022
+Last updated on March 29, 2022
 
 
 ---
