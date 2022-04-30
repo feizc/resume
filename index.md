@@ -54,7 +54,7 @@ April, 2018 - October, 2018 | AAIS, Peking University.
 
 * **Zhengcong Fei**, Junshi Huang, Xiaoming Wei. Ensemble Parameter Distillation. Under work. [paper] [[code](https://github.com/feizc/EPD)] 
 
-* Ji-Xiang He\*, **Zhengcong Fei**\*, Ling Fu, Cai-Ping Tian, Fu-Chu He, Si-Min He, Hao Chi, Jing Yang. pChem: a modification-centric assessment tool for the performance of chemoproteomic probes. Nature Chemical Biology under review. [[paper](https://www.biorxiv.org/content/biorxiv/early/2021/10/17/2021.09.22.461295.full.pdf)] [[code](https://github.com/pFindStudio/pChem)] [[web](http://pfind.org/software/pChem/index.html)] 
+* Ji-Xiang He\*, **Zhengcong Fei**\*, Ling Fu, Cai-Ping Tian, Fu-Chu He, Si-Min He, Hao Chi, Jing Yang. pChem: a modification-centric assessment tool for the performance of chemoproteomic probes. In *Nature Chemical Biology*. [[paper](https://www.biorxiv.org/content/biorxiv/early/2021/10/17/2021.09.22.461295.full.pdf)] [[code](https://github.com/pFindStudio/pChem)] [[web](http://pfind.org/software/pChem/index.html)] 
 
 * **Zhengcong Fei**, Xu Yan, Shuhui Wang, Qi Tian. DeeCap: Dynamic Early Exiting for Efficient Image Captioning. In *CVPR2022*. [paper] [[code](https://github.com/feizc/DeeCap)]
   
