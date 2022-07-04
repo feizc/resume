@@ -52,7 +52,7 @@ April, 2018 - October, 2018 | AAIS, Peking University.
 
 ### 2022 
 
-* **Zhengcong Fei**, Junshi Huang, Xiaoming Wei. Contrastive Confidence Calibration for Trustworthy Image Captioning. Under Work. [paper] [[code](https://github.com/feizc/Confidence-Calibration)]
+* **Zhengcong Fei**, Junshi Huang, Xiaoming Wei. Diffusion-Cap: Controllable Image Captioning with Diffusion Model. Under Work. [paper] [[code](https://github.com/feizc/Diffusion-Cap)]
 
 * **Zhengcong Fei**, Junshi Huang, Xiaoming Wei. Ensemble Parameter Distillation. Under work. [paper] [[code](https://github.com/feizc/EPD)] 
 
