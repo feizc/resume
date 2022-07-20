@@ -5,22 +5,17 @@ layout: default
 # Zhengcong Fei(费政聪)
 
 <img class="profile-picture" src="picture1.png">
-  
-  
-Candidate Master  
 
-Institute of Computing Technology, Chinese Academy of Sciences  
+Machine learning engineer at Meituan, Beijing 
 
-No.6 Kexueyuan South Road Zhongguancun, Beijing, China, 100190  
-
-Email: [feizhengcong@ict.ac.cn](mailto:feizhengcong@ict.ac.cn)  
+Email: [feizhengcong@meituan.com](mailto:feizhengcong@meituan.com)  
 
 know more about me: [zhihu](https://www.zhihu.com/people/mai-zi-31-63/activities) [github](https://github.com/feizc)   [scholar](https://scholar.google.com/citations?user=_43YnBcAAAAJ&hl=zh-CN) 
 
  
 ## Education 
 
-September, 2019 - Present | M.D. Candidate, Computer Application Technology, ICT.   
+September, 2019 - June, 2022 | Master's Degree of Computer Application Technology, ICT, UCAS.   
 September, 2015 - June, 2019 | Bachelor of Electronic information engineering, NJUST; GPA: 3.75/4 (rank: 1/165). 
 
 ## Research Interest
