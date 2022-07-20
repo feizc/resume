@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="picture1.png">
 
-Machine Learning Engineer at Meituan, Beijing 
+Machine Learning Engineer at Meituan Inc, Beijing 
 
 Email: [feizhengcong@meituan.com](mailto:feizhengcong@meituan.com)  
 
