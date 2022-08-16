@@ -47,10 +47,7 @@ April, 2018 - October, 2018 | AAIS, Peking University.
 
 ### 2022 
 
-* **Zhengcong Fei**, Junshi Huang, Xiaoming Wei. DiffusionCap: Controllable Image Captioning with Diffusion Model. Under Work. [paper] [[code](https://github.com/feizc/Diffusion-Cap)]
-
-* **Zhengcong Fei**, Junshi Huang, Xiaoming Wei. Ensemble Parameter Distillation. Under work. [paper] [[code](https://github.com/feizc/EPD)] 
-
+* **Zhengcong Fei**, Junshi Huang, Xiaoming Wei, Xiaolin Wei. DiffusionCap: Controllable Image Captioning with Diffusion Model. Under Work. [paper] [[code](https://github.com/feizc/Diffusion-Cap)]
 
 * **Zhengcong Fei**, Junshi Huang, Xiaoming Wei, Xiaolin Wei. Efficient Modeling of Future Context for Image Captioning. In *ACM MM2022*. [[paper](https://feizc.github.io/resume/future.pdf)] [[code](https://github.com/feizc/Future-Caption)] 
 
