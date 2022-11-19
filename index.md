@@ -47,7 +47,7 @@ April, 2018 - October, 2018 | AAIS, Peking University.
 
 ### 2023
 
-* **Zhengcong Fei**, Mingyuan Fan, Li Zhu, Junshi Huang, Xiaoming Wei, Xiaolin Wei. Uncertainty-Aware Image Captioning. In *AAAI2022*. [paper] [[code](https://github.com/feizc/UAIC)]
+* **Zhengcong Fei**, Mingyuan Fan, Li Zhu, Junshi Huang, Xiaoming Wei, Xiaolin Wei. Uncertainty-Aware Image Captioning. In *AAAI2023*. [paper] [[code](https://github.com/feizc/UAIC)]
 
 ### 2022 
 
