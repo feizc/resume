@@ -61,7 +61,7 @@ April, 2018 - October, 2018 | AAIS, Peking University.
 * Zhexin Zhang, Yeshuang Zhu, **Zhengcong Fei**, Jinchao Zhang, Jie Zhou. Selecting Stickers in Open-Domain Dialogue through Multitask Learning. In *ACL2022* Findings. [[paper](https://aclanthology.org/2022.findings-acl.241/)] [[code](https://github.com/nonstopfor/Sticker-Selection)]
 
 
-* **Zhengcong Fei**. Attention-Aligned Transformer for Image Captioning. In *AAAI2022*. [[paper](https://www.aaai.org/AAAI22Papers/AAAI-1018.FeiZ.pdf)] 
+* **Zhengcong Fei**. Attention-Aligned Transformer for Image Captioning. [[claim](https://github.com/feizc/AAT/tree/main)]
 
 
 * **Zhengcong Fei**, Zekang Li, Jinchao Zhang, Yang Feng, Jie Zhou. Towards Expressive Communication with Internet Memes: A New Multimodal Conversation Dataset and Benchmark. In DSTC10 track1 organizer. [[paper](https://arxiv.org/abs/2109.01839)] [[code](https://github.com/lizekang/DSTC10-MOD)] [[web](https://openai.weixin.qq.com/dstc/DescriptionEN)] 
