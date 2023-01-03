@@ -55,7 +55,7 @@ April, 2018 - October, 2018 | AAIS, Peking University.
 
 * Ji-Xiang He\*, **Zhengcong Fei**\*, Ling Fu, Cai-Ping Tian, Fu-Chu He, Si-Min He, Hao Chi, Jing Yang. pChem: a modification-centric assessment tool for the performance of chemoproteomic probes. In *Nature Chemical Biology*. [[paper](https://www.biorxiv.org/content/biorxiv/early/2021/10/17/2021.09.22.461295.full.pdf)] [[code](https://github.com/pFindStudio/pChem)] [[web](http://pfind.org/software/pChem/index.html)] 
 
-* **Zhengcong Fei**, Xu Yan, Shuhui Wang, Qi Tian. DeeCap: Dynamic Early Exiting for Efficient Image Captioning. In *CVPR2022*. [[paper](https://feizc.github.io/resume/deecap.pdf)] [[code](https://feizc.github.io/resume/deecap.pdf)] 
+* **Zhengcong Fei**, Xu Yan, Shuhui Wang, Qi Tian. DeeCap: Dynamic Early Exiting for Efficient Image Captioning. In *CVPR2022*. [[paper](https://feizc.github.io/resume/deecap.pdf)] [[code](https://github.com/feizc/DeeCap)] 
 
 
 * Zhexin Zhang, Yeshuang Zhu, **Zhengcong Fei**, Jinchao Zhang, Jie Zhou. Selecting Stickers in Open-Domain Dialogue through Multitask Learning. In *ACL2022* Findings. [[paper](https://aclanthology.org/2022.findings-acl.241/)] [[code](https://github.com/nonstopfor/Sticker-Selection)]
@@ -149,7 +149,7 @@ Reviewer: **CVPR**2022; **ICLR**2021; **NeurIPS**2021; **ICCV**2021; **ICML**202
 ---
 
 
-Last updated on Nov 19, 2022
+Last updated on Jan 3, 2023
 
 
 ---
