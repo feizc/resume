@@ -47,7 +47,7 @@ April, 2018 - October, 2018 | AAIS, Peking University.
 
 ### 2023
 
-* **Zhengcong Fei**, Mingyuan Fan, Junshi Huang, Xiaoming Wei, Xiaolin Wei. Text-to-Video Generation with Stable Diffusion Models. In *technique report*. [paper] [[code](https://github.com/feizc/Video-Stable-Diffusion)]
+* **Zhengcong Fei**, Mingyuan Fan, Junshi Huang, Xiaoming Wei, Xiaolin Wei. Consistent Text-to-Video Generation with Stable Diffusion Models. In *technique report*. [paper] [[code](https://github.com/feizc/Video-Stable-Diffusion)]
 
 * **Zhengcong Fei**, Mingyuan Fan, Li Zhu, Junshi Huang, Xiaoming Wei, Xiaolin Wei. Uncertainty-Aware Image Captioning. In *AAAI2023*. [[paper](https://arxiv.org/abs/2211.16769)] [[code](https://github.com/feizc/UAIC)]
 
