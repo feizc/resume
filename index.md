@@ -106,7 +106,7 @@ April, 2018 - October, 2018 | AAIS, Peking University.
 * **Zhengcong Fei**. Better Understanding Hierarchical Visual Relationship for Image Caption. In *NeurIPS2019* Workshop. [[paper](https://arxiv.org/abs/1912.01881)]  [[code](https://github.com/feizc/GNN-Pytorch)]  
   
 
-* Wen-Feng Zeng\*, Ching Tarn\*, **Zhengcong Fei**, Si-Min He. pDeep3: Towards More Accurate Spectrum Prediction with Fast Few-Shot Learning. In *Analytical Chemistry*. [[paper](https://www.biorxiv.org/content/10.1101/2020.09.13.295105v1)]  [[code](https://github.com/pFindStudio/pDeep3)]  
+; * Wen-Feng Zeng\*, Ching Tarn\*, **Zhengcong Fei**, Si-Min He. pDeep3: Towards More Accurate Spectrum Prediction with Fast Few-Shot Learning. In *Analytical Chemistry*. [[paper](https://www.biorxiv.org/content/10.1101/2020.09.13.295105v1)]  [[code](https://github.com/pFindStudio/pDeep3)]  
 
 
 * **Zhengcong Fei**, Kaifei Wang, Hao Chi, GameTag: A New Sequence Tag Generation Algorithm Based on Cooperative Game Theory. In *Proteomics*. [[paper](https://onlinelibrary.wiley.com/doi/full/10.1002/pmic.202000021?af=R)]  [[code](https://github.com/feizc/GameTag)] 
