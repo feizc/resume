@@ -47,7 +47,7 @@ April, 2018 - October, 2018 | AAIS, Peking University.
 
 ### 2023
 
-* **Zhengcong Fei**, Mingyuan Fan, Li Zhu, Junshi Huang, Xiaoming Wei, Xiaolin Wei. Masked Auto-Encoders Meet Generative Adversarial Networks and Beyond. In *CVPR2023*. [paper] [code]
+* **Zhengcong Fei**, Mingyuan Fan, Li Zhu, Junshi Huang, Xiaoming Wei, Xiaolin Wei. Masked Auto-Encoders Meet Generative Adversarial Networks and Beyond. In *CVPR2023*. [[paper](https://github.com/feizc/resume/2023060803.pdf)] [code]
 
 * **Zhengcong Fei**, Mingyuan Fan, Junshi Huang, Xiaoming Wei, Xiaolin Wei. Consistent Text-to-Video Generation with Stable Diffusion Models. In *technique report*. [paper] [[code](https://github.com/feizc/Video-Stable-Diffusion)]
 
