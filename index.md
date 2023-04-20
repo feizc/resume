@@ -47,9 +47,11 @@ April, 2018 - October, 2018 | AAIS, Peking University.
 
 ### 2023
 
+* **Zhengcong Fei**, Junshi Huang. Incorporating Unlikely Negative Cues for Distinctive Image Captioning. In *IJCAI2023*. [paper] [code]
+
 * **Zhengcong Fei**, Mingyuan Fan, Li Zhu, Junshi Huang, Xiaoming Wei, Xiaolin Wei. Masked Auto-Encoders Meet Generative Adversarial Networks and Beyond. In *CVPR2023*. [[paper](https://feizc.github.io/resume/ganmae.pdf)] [code]
 
-* **Zhengcong Fei**, Mingyuan Fan, Junshi Huang, Xiaoming Wei, Xiaolin Wei. Consistent Text-to-Video Generation with Stable Diffusion Models. In *technique report*. [paper] [[code](https://github.com/feizc/Video-Stable-Diffusion)]
+* **Zhengcong Fei**, Mingyuan Fan, Junshi Huang. Gradient-Free Textual Inversion. In *technique report*. [[paper](https://arxiv.org/abs/2304.05818)] [[code](https://arxiv.org/abs/2304.05818)]
 
 * **Zhengcong Fei**, Mingyuan Fan, Li Zhu, Junshi Huang, Xiaoming Wei, Xiaolin Wei. Uncertainty-Aware Image Captioning. In *AAAI2023*. [[paper](https://arxiv.org/abs/2211.16769)] [[code](https://github.com/feizc/UAIC)]
 
@@ -153,7 +155,7 @@ Reviewer: **CVPR**2022; **ICLR**2021; **NeurIPS**2021; **ICCV**2021; **ICML**202
 ---
 
 
-Last updated on March 18, 2023
+Last updated on Apr 20, 2023
 
 
 ---
