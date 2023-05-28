@@ -47,7 +47,9 @@ April, 2018 - October, 2018 | AAIS, Peking University.
 
 ### 2023
 
+<div style='display: none'>
 * **Zhengcong Fei**, Junshi Huang. Incorporating Unlikely Negative Cues for Distinctive Image Captioning. In *IJCAI2023*. [paper] [code]
+</div> 
 
 * **Zhengcong Fei**, Mingyuan Fan, Li Zhu, Junshi Huang, Xiaoming Wei, Xiaolin Wei. Masked Auto-Encoders Meet Generative Adversarial Networks and Beyond. In *CVPR2023*. [[paper](https://feizc.github.io/resume/ganmae.pdf)] [code]
 
