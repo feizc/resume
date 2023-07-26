@@ -51,7 +51,7 @@ April, 2018 - October, 2018 | AAIS, Peking University.
 
 * **Zhengcong Fei**, Zekang Li, Jinchao Zhang, Yang Feng, Jie Zhou. Overview of the Tenth Dialog System Technology Challenge: DSTC10. In *IEEE/ACM Transactions on Audio, Speech, and Language Processing*. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10174647)] [[code](https://github.com/lizekang/DSTC10-MOD/tree/main)]
 
-* **Zhengcong Fei**, Junshi Huang. Incorporating Unlikely Negative Cues for Distinctive Image Captioning. In *IJCAI2023*. [paper] [code]
+* **Zhengcong Fei**, Junshi Huang. Incorporating Unlikely Negative Cues for Distinctive Image Captioning. In *IJCAI2023*. [[paper](https://ijcai-23.org/paper-schedule/)] [code]
 
 * **Zhengcong Fei**, Mingyuan Fan, Li Zhu, Junshi Huang, Xiaoming Wei, Xiaolin Wei. Masked Auto-Encoders Meet Generative Adversarial Networks and Beyond. In *CVPR2023*. [[paper](https://feizc.github.io/resume/ganmae.pdf)] 
 
@@ -157,7 +157,7 @@ Reviewer: **CVPR**2022; **ICLR**2021; **NeurIPS**2021; **ICCV**2021; **ICML**202
 ---
 
 
-Last updated on July 16, 2023
+Last updated on July 26, 2023
 
 
 ---
