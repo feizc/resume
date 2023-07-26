@@ -47,7 +47,7 @@ April, 2018 - October, 2018 | AAIS, Peking University.
 
 ### 2023
 
-* **Zhengcong Fei**, Mingyuan Fan, Junshi Huang. Gradient-Free Textual Inversion. In *technique report*. [[paper](https://arxiv.org/abs/2304.05818)] [[code](https://github.com/feizc/Gradient-Free-Textual-Inversion)]
+* **Zhengcong Fei**, Mingyuan Fan, Junshi Huang. Gradient-Free Textual Inversion. In *ACM MM2023*. [[paper](https://arxiv.org/abs/2304.05818)] [[code](https://github.com/feizc/Gradient-Free-Textual-Inversion)]
 
 * **Zhengcong Fei**, Zekang Li, Jinchao Zhang, Yang Feng, Jie Zhou. Overview of the Tenth Dialog System Technology Challenge: DSTC10. In *IEEE/ACM Transactions on Audio, Speech, and Language Processing*. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10174647)] [[code](https://github.com/lizekang/DSTC10-MOD/tree/main)]
 
