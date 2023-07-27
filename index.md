@@ -4,7 +4,7 @@ layout: default
 
 # Zhengcong Fei(费政聪)
 
-<img class="profile-picture" src="picture1.png">
+<img class="profile-picture" src="picture2.png">
 
 Machine Learning Engineer at Meituan Inc, Beijing 
 
