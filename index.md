@@ -20,7 +20,7 @@ September, 2015 - June, 2019 | Bachelor of Electronic information engineering, N
 
 ## Research Interest
 
-Vision and Language 
+AI, LLM, Multimodal
 
 ## Experience 
 
