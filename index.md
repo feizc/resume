@@ -47,7 +47,7 @@ April, 2018 - October, 2018 | AAIS, Peking University.
 
 ### 2023
 
-* Yuchen Ma, **Zhengcong Fei**, Junshi Huang. DiT: Efficient Vision Transformers with Dynamic Token Routing. In technique report. [[paper](https://arxiv.org/pdf/2308.03409.pdf)] [[code](https://github.com/feizc/DiT)] 
+* Yuchen Ma, **Zhengcong Fei**, Junshi Huang. DiT: Efficient Vision Transformers with Dynamic Token Routing. In *Technique Report*. [[paper](https://arxiv.org/pdf/2308.03409.pdf)] [[code](https://github.com/feizc/DiT)] 
 
 * **Zhengcong Fei**, Mingyuan Fan, Junshi Huang. Gradient-Free Textual Inversion. In *ACM MM2023*. [[paper](https://arxiv.org/abs/2304.05818)] [[code](https://github.com/feizc/Gradient-Free-Textual-Inversion)]
 
