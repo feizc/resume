@@ -10,7 +10,7 @@ Machine Learning Engineer at Meituan Inc, Beijing
 
 Email: [feizhengcong@gmail.com](mailto:feizhengcong@gmail.com)  
 
-know more about me: [zhihu](https://www.zhihu.com/people/mai-zi-31-63/activities) [github](https://github.com/feizc)   [scholar](https://scholar.google.com/citations?user=_43YnBcAAAAJ&hl=zh-CN) 
+know more about me: [github](https://github.com/feizc)   [scholar](https://scholar.google.com/citations?user=_43YnBcAAAAJ&hl=zh-CN) 
 
 
 ## Education 
