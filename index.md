@@ -49,11 +49,11 @@ April, 2018 - October, 2018 | AAIS, Peking University.
 
 * Yuchen Ma, **Zhengcong Fei**, Junshi Huang. DiT: Efficient Vision Transformers with Dynamic Token Routing. In *Technique Report*. [[paper](https://arxiv.org/pdf/2308.03409.pdf)] [[code](https://github.com/feizc/DiT)] 
 
-* **Zhengcong Fei**, Mingyuan Fan, Junshi Huang. Gradient-Free Textual Inversion. In *ACM MM2023*. [[paper](https://arxiv.org/abs/2304.05818)] [[code](https://github.com/feizc/Gradient-Free-Textual-Inversion)]
+* **Zhengcong Fei**, Mingyuan Fan, Junshi Huang. Gradient-Free Textual Inversion. In *ACM MM2023*. [[paper](https://dl.acm.org/doi/10.1145/3581783.3612599)] [[code](https://github.com/feizc/Gradient-Free-Textual-Inversion)]
 
 * **Zhengcong Fei**, Zekang Li, Jinchao Zhang, Yang Feng, Jie Zhou. Overview of the Tenth Dialog System Technology Challenge: DSTC10. In *IEEE/ACM Transactions on Audio, Speech, and Language Processing*. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10174647)] [[code](https://github.com/lizekang/DSTC10-MOD/tree/main)]
 
-* **Zhengcong Fei**, Junshi Huang. Incorporating Unlikely Negative Cues for Distinctive Image Captioning. In *IJCAI2023*. [[paper](https://ijcai-23.org/paper-schedule/)] [code]
+* **Zhengcong Fei**, Junshi Huang. Incorporating Unlikely Negative Cues for Distinctive Image Captioning. In *IJCAI2023*. [[paper](https://ijcai-23.org/paper-schedule/)] 
 
 * **Zhengcong Fei**, Mingyuan Fan, Li Zhu, Junshi Huang, Xiaoming Wei, Xiaolin Wei. Masked Auto-Encoders Meet Generative Adversarial Networks and Beyond. In *CVPR2023*. [[paper](https://feizc.github.io/resume/ganmae.pdf)] 
 
@@ -159,7 +159,7 @@ Reviewer: **CVPR**2022; **ICLR**2021; **NeurIPS**2021; **ICCV**2021; **ICML**202
 ---
 
 
-Last updated on Aug 18, 2023
+Last updated on Nov 9, 2023
 
 
 ---
