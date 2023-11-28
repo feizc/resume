@@ -47,7 +47,7 @@ April, 2018 - October, 2018 | AAIS, Peking University.
 
 ### 2023
 
-* **Zhengcong Fei**, Mingyuan Fan, Junshi Huang. A-JEPA: Joint-Embedding Predictive Architecture Can Listen. In *Technique Report*. [paper] [[code](https://github.com/feizc/A-JEPA)]
+* **Zhengcong Fei**, Mingyuan Fan, Junshi Huang. A-JEPA: Joint-Embedding Predictive Architecture Can Listen. In *Technique Report*. [[paper](https://arxiv.org/pdf/2311.15830.pdf)] [[code](https://github.com/feizc/A-JEPA)]
 
 * Yuchen Ma, **Zhengcong Fei**, Junshi Huang. DiT: Efficient Vision Transformers with Dynamic Token Routing. In *Technique Report*. [[paper](https://arxiv.org/pdf/2308.03409.pdf)] [[code](https://github.com/feizc/DiT)] 
 
@@ -161,7 +161,7 @@ Reviewer: **CVPR**2022; **ICLR**2021; **NeurIPS**2021; **ICCV**2021; **ICML**202
 ---
 
 
-Last updated on Nov 18, 2023
+Last updated on Nov 28, 2023
 
 
 ---
