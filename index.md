@@ -45,6 +45,11 @@ April, 2018 - October, 2018 | AAIS, Peking University.
 
 ## Publications 
 
+### 2024 
+
+* Xiaoyue Duan, Shuhao Cui, Guoliang Kang, Baochang Zhang, **Zhengcong Fei**, Mingyuan Fan, Junshi Huang. Tuning-Free Inversion-Enhanced Control for Consistent Image Editing. In *AAAI2024*. [paper] [code]
+
+
 ### 2023
 
 * **Zhengcong Fei**, Mingyuan Fan, Junshi Huang. A-JEPA: Joint-Embedding Predictive Architecture Can Listen. In *Technique Report*. [[paper](https://arxiv.org/pdf/2311.15830.pdf)] [[code](https://github.com/feizc/A-JEPA)]
