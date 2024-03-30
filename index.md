@@ -49,7 +49,7 @@ April, 2018 - October, 2018 | AAIS, Peking University.
 
 * **Zhengcong Fei**, Mingyuan Fan, Changqian Yu, Junshi Huang. Scalable Diffusion Models with State Space Backbone. In *Technique Report*. [[paper](https://arxiv.org/abs/2402.05608)] [[code](https://github.com/feizc/DiS)]
 
-* Xiaoyue Duan, Shuhao Cui, Guoliang Kang, Baochang Zhang, **Zhengcong Fei**, Mingyuan Fan, Junshi Huang. Tuning-Free Inversion-Enhanced Control for Consistent Image Editing. In *AAAI2024*. [[paper](https://arxiv.org/abs/2312.14611)]
+* Xiaoyue Duan, Shuhao Cui, Guoliang Kang, Baochang Zhang, **Zhengcong Fei**, Mingyuan Fan, Junshi Huang. Tuning-Free Inversion-Enhanced Control for Consistent Image Editing. In *AAAI2024*. [[paper](https://arxiv.org/abs/2312.14611)] [[video](https://underline.io/lecture/91717-tuning-free-inversion-enhanced-control-for-consistent-image-editing)]
 
 
 ### 2023
