@@ -47,8 +47,7 @@ April, 2018 - October, 2018 | AAIS, Peking University.
 
 ### 2024 
 
-* **Zhengcong Fei**, Mingyuan Fan, Junshi Huang. Music Consistency Models. In *Technique Report*. [[paper](https://arxiv.org/abs/2404.13358)]
-[demo](https://skywork.kunlun.com/#/list?pos=product)
+* **Zhengcong Fei**, Mingyuan Fan, Junshi Huang. Music Consistency Models. In *Technique Report*. [[paper](https://arxiv.org/abs/2404.13358)] [[demo](https://skywork.kunlun.com/#/list?pos=product)]
 
 * **Zhengcong Fei**, Mingyuan Fan, Changqian Yu, Junshi Huang. Scalable Diffusion Models with State Space Backbone. In *Technique Report*. [[paper](https://arxiv.org/abs/2402.05608)] [[code](https://github.com/feizc/DiS)]
 
