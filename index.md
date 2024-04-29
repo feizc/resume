@@ -47,6 +47,8 @@ April, 2018 - October, 2018 | AAIS, Peking University.
 
 ### 2024 
 
+* **Zhengcong Fei**, Mingyuan Fan, Changqian Yu, Debang Li, Junshi Huang. Diffusion-RWKV: Scaling RWKV-Like Architectures for Diffusion Models. In *Technique Report*. [[paper](https://arxiv.org/abs/2404.04478)] [[code](https://github.com/feizc/Diffusion-RWKV)]
+
 * **Zhengcong Fei**, Mingyuan Fan, Junshi Huang. Music Consistency Models. In *Technique Report*. [[paper](https://arxiv.org/abs/2404.13358)] [[demo](https://skywork.kunlun.com/#/list?pos=product)]
 
 * **Zhengcong Fei**, Mingyuan Fan, Changqian Yu, Junshi Huang. Scalable Diffusion Models with State Space Backbone. In *Technique Report*. [[paper](https://arxiv.org/abs/2402.05608)] [[code](https://github.com/feizc/DiS)]
@@ -170,7 +172,7 @@ Reviewer: **CVPR**2022; **ICLR**2021; **NeurIPS**2021; **ICCV**2021; **ICML**202
 ---
 
 
-Last updated on Apr 28, 2024
+Last updated on Apr 29, 2024
 
 
 ---
